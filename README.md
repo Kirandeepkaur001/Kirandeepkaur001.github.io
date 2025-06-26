@@ -9,11 +9,11 @@
     * **_Service based_**
     * **_Startup company_**
 
-We also differenciate between Linux and Windows. The major difference between both is that-
+   We also differenciate between Linux and Windows. The major difference between both is that-
 * Linux is _**Open Source and Free**_
 * Windows is _**not an Open Source and needs lisence**_
 
-Mam give us broadly different ideas about career. Mam taught us that how we can achieve our dream company and make our future bright. In the 3rd and 4th hour,  we explored more about the applications and career options in Linux. The major career options are-
+   Mam give us broadly different ideas about career. Mam taught us that how we can achieve our dream company and make our future bright. In the 3rd and 4th hour,  we explored more about the applications and career options in Linux. The major career options are-
     * **_Software Engineer_**
     * **_Data Scientist_**
     * **_Cyber Security_**
