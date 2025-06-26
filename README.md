@@ -22,7 +22,7 @@
 ### Booting:
     Booting is the process that starts your computer.When you press the power button, the computer wakes up, checks its parts, and loads the operating system (like Windows or Linux) so you can use it.
 ### Types of Booting:
-* **_Cold boot/ Hard boot_**: This refers to starting the computer from a completely powered-off state.
-* **_Warm boot/ Soft boot_**: This is when the operating system alone is restarted wihtout turning it off.
+* **_Cold boot/ Hard boot_** : This refers to starting the computer from a completely powered-off state.
+* **_Warm boot/ Soft boot_** : This is when the operating system alone is restarted wihtout turning it off.
 
 We also ought to know that in today's era, LINUX is broadly used in many companies and it becomes an important part nowadays as it is more secure and free. In this way, DAY 1 was full of knowledge, enthusiasm and exploration.
