@@ -9,6 +9,6 @@
     * **_Bash_** : Most commmon (friendlist)
     * **_Sh_** : Original shell (basic)
     * **_Zsh_** : Fancy waiter, more features (managing file system)
-    * **_FIsh_** : Modern interaction (files/programs)
+    * **_Fish_** : Modern interaction (files/programs)
     
      
