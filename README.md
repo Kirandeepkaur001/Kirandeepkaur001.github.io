@@ -1,4 +1,4 @@
-# In this repository, I am sharing my experience in 3rd semester training in Computer Science and Engineering
+# Daily report of training in 3rd semester training in Computer Science and Engineering
 ---
 # DAY 1 :
 * ### Orientation
