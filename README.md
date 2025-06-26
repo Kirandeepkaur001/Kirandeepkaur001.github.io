@@ -10,13 +10,14 @@
     * **_Service based_**
     * **_Startup company_**
 We also differenciate between Linux and Windows. The major difference between both is that
+
     Linux is *__Open Source and Free__* while
     Windows is *__not an Open Source__*
 Mam give us broadly different ideas about career. Mam taught us that how we can achieve our dream company and make our future bright. In the 3rd and 4th hour,  we explored more about the applications and career options in Linux. The major career options are-
 
-    **_Software Engineer_**
-    **_Data Scientist_**
-    **_Cyber Security_**
-    **_Date Analist_**
-    **_AI and ML_**
+    * **_Software Engineer_**
+    * **_Data Scientist_**
+    * **_Cyber Security_**
+    * **_Date Analist_**
+    * **_AI and ML_**
 We also ought to know that in today's era, LINUX is broadly used in many companies and it becomes an important part nowadays as it is more secure and free. In this way, DAY 1 was full of knowledge, enthusiasm and exploration.
