@@ -20,10 +20,10 @@
     * **_Date Analyst_**
     * **_AI and ML_**
       
-**Booting:**
+### Booting:
     Booting is the process that starts your computer.When you press the power button, the computer wakes up, checks its parts, and loads the operating system (like Windows or Linux) so you can use it.
     
-**Types of Booting:**
+### Types of Booting:
     * **_Cold boot/ Hard boot_** : This refers to starting the computer from a completely powered-off state.
     * **_Warm boot/ Soft boot_** : This is when the operating system alone is restarted wihtout turning it off.
 
