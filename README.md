@@ -5,13 +5,14 @@
 
 * After spending one hour in the auditorium, we hosted to our labs for starting the training. In the lab, firstly we learned about the basics of LINUX. We learned to install the linux in our computer. There are many ways to install Linux but we installed it using Ubantu. We were taught about the three companies-
   
-....**_Product based_**
-....*__*Service based*__
-....*__*Startup company*__
+    **_Product based_**
+    **_Service based_**
+    **_Startup company_**
 We also differenciate between Linux and Windows. The major difference between both is that Linux is *__Open Source and Free__* while Windows is *__not an Open Source__*. Mam give us broadly different ideas about career. Mam taught us that how we can achieve our dream company and make our future bright. In the 3rd and 4th hour,  we explored more about the applications and career options in Linux. The major career options are-
-....*__*Software Engineer*__
-....*__*Data Scientist*__
-....*__*Cyber Security*__
-....*__*Date Analist*__
-....*__*AI and ML*__
+
+    **_Software Engineer_**
+    **_Data Scientist_**
+    **_Cyber Security_**
+    **_Date Analist_**
+    **_AI and ML_**
 We also ought to know that in today's era, LINUX is broadly used in many companies and it becomes an important part nowadays as it is more secure and free. In this way, DAY 1 was full of knowledge, enthusiasm and exploration.
