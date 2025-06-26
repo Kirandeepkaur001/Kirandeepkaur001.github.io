@@ -10,7 +10,7 @@
     * **_Sh_** : Original shell (basic)
     * **_Zsh_** : Fancy waiter, more features (managing file system)
     * **_Fish_** : Modern interaction (files/programs)
-    * 
+     
     ### Categories:
     * **_Commandline shell_**
     * **_Graphical shell_**
