@@ -4,6 +4,7 @@
 * The day started very nicely with good motivation speeches in the auditorium. Dr. Priyanka mam gives us good motivation and told us about the infrastructure of the Computer Science department. After that, our HOD mam named Dr.Kiran Jyoti told us about the exam schemes as well as about the one year training. It was very good listening in the auditorium.
 
 * After spending one hour in the auditorium, we hosted to our labs for starting the training. In the lab, firstly we learned about the basics of LINUX. We learned to install the linux in our computer. There are many ways to install Linux but we installed it using Ubantu. We were taught about the three companies-
+  
 ....**_Product based_**
 ....*__*Service based*__
 ....*__*Startup company*__
