@@ -3,22 +3,6 @@
 # DAY 1 :
 * ### Orientation
 The day started very nicely with good motivation speeches in the auditorium. Dr. Priyanka mam gives us good motivation and told us about the infrastructure of the Computer Science department. After that, our HOD mam named Dr.Kiran Jyoti told us about the exam schemes as well as about the one year training. It was very good listening in the auditorium.
-1. First ordered list item
-2. Another item
-⋅⋅⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅⋅⋅1. Ordered sub-list
-4. And another item.
-
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
 * ### First day of training
 After spending one hour in the auditorium, we were hosted to our labs for starting the training. In the lab, firstly we learned about the basics of LINUX. We learned to install the linux in our computer. There are many ways to install Linux but we installed it using Ubantu. We were taught about the three companies-
     * **_Product based_**
