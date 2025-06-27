@@ -17,5 +17,7 @@
       ![image](https://github.com/user-attachments/assets/e841590f-de47-4e8a-9911-42e79f8f4fc6)
 
     * **_Graphical shell_**
+      ![image](https://github.com/user-attachments/assets/b14725f2-de83-4304-b1a7-1741d80757ff)
+
     
      
