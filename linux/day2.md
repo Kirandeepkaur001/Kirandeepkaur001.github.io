@@ -35,6 +35,7 @@
       ![image](https://github.com/user-attachments/assets/b14725f2-de83-4304-b1a7-1741d80757ff)
 
 * # Linux commands
-
+    * **_ls_**
+      
     
      
