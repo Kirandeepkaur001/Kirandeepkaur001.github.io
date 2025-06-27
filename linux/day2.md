@@ -48,7 +48,8 @@
     ![image](https://github.com/user-attachments/assets/2d0babf3-c854-4885-9ba8-e106efe9840d)
   
     ### **_whatis_**
-    ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
+    ![image](https://github.com/user-attachments/assets/d85a918c-742a-44cc-8af8-7bd38d4965fc)
+
   
     ### **_whereis_**
     ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
