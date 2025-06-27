@@ -1,5 +1,5 @@
 # DAY 2 :
-* # Kernel, Shell
+* # Kernel and Shell
   ![image](https://github.com/user-attachments/assets/884fa9e1-3ff3-4c51-b67e-bb392281eb98)
     ### Kernel:
     It is a program that is core of computer's operating system with complete control over everything in the system. It interacts with hardware.
@@ -33,6 +33,8 @@
 
     * **_Graphical shell_**
       ![image](https://github.com/user-attachments/assets/b14725f2-de83-4304-b1a7-1741d80757ff)
+
+* # Linux commands
 
     
      
