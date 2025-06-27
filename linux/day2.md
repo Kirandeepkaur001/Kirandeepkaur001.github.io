@@ -7,7 +7,8 @@
     It is a program that acts an interface between user and operating system.
     
     ### Types of Shell:
-    * **_Bash_** : Most commmon (friendlist)
+    ### **_Bash_** :
+    Most commmon (friendlist)
       
     A Command-Line Interpreter (Shell)
     Bash stands for Bourne Again SHell.
@@ -23,11 +24,16 @@
     Bash takes it, understands it, and tells the computer what to do.
 
 
-    * **_Sh_** : Original shell (basic)
-    * **_Zsh_** : Fancy waiter, more features (managing file system)
-    * **_Fish_** : Modern interaction (files/programs)
+    ### **_Sh_** :
+    Original shell (basic)
+  
+    ### **_Zsh_** :
+    Fancy waiter, more features (managing file system)
+  
+    ### **_Fish_** :
+    Modern interaction (files/programs)
      
-    ### Categories:
+    ## Categories:
   
     ### **_Commandline shell_**
   
