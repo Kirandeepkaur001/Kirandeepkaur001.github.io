@@ -35,41 +35,50 @@
       ![image](https://github.com/user-attachments/assets/b14725f2-de83-4304-b1a7-1741d80757ff)
 
 * # Linux commands
-    ### **_ls_** : Shows all files and folders in the current place in the form of a list.
+    ### **_ls_** :
+    Shows all files and folders in the current place in the form of a list.
       
     ![image](https://github.com/user-attachments/assets/7c73e51f-c456-42fc-9cc5-43673098771e)
   
-    * **_cd_** : Changes the directory (move into a folder).
+    ### **_cd_** :
+    Changes the directory (move into a folder).
       
     ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
   
-    * **_pwd_** : Prints working directory. Shows where you are right now.
+    ### **_pwd_** :
+    Prints working directory. Shows where you are right now.
       
     ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
   
-    * **_whoami_** : Who is using the computer. Tells the username.
+    ### **_whoami_** :
+    Who is using the computer. Tells the username.
       
     ![image](https://github.com/user-attachments/assets/2d0babf3-c854-4885-9ba8-e106efe9840d)
   
-    * **_whatis_** : Gives short information about a command.
+    ### **_whatis_** :
+    Gives short information about a command.
       
     ![image](https://github.com/user-attachments/assets/d85a918c-742a-44cc-8af8-7bd38d4965fc)
 
     ![image](https://github.com/user-attachments/assets/923ae680-5209-474e-b5f4-ccd6833864c8)
 
-    * **_whereis_** : Tells where the command is. Finds where a program is installed.
+    ### **_whereis_** :
+    Tells where the command is. Finds where a program is installed.
       
     ![image](https://github.com/user-attachments/assets/fa4b9c98-c48c-41c0-afe4-3b118c8fd5fe)
 
-    * **_mkdir_** : Create a new directory (folder).
+    ### **_mkdir_** :
+    Create a new directory (folder).
       
     ![image](https://github.com/user-attachments/assets/118a6b10-efda-470b-9b82-dad491e20043)
   
-    * **_rmdir_** : Deletes a directory, but only if it's empty.
+    ### **_rmdir_** :
+    Deletes a directory, but only if it's empty.
       
     ![image](https://github.com/user-attachments/assets/1bb99e61-8f87-4385-a51c-c1a9f92bd041)
   
-    * **_cat_** : It stands for concatenate. This is used to make file with content. various uses such as- file concatenation, to see the content of the file, copies the file content etc.
+    ### **_cat_** :
+    It stands for concatenate. This is used to make file with content. various uses such as- file concatenation, to see the content of the file, copies the file content etc.
       
     ![image](https://github.com/user-attachments/assets/83287531-cee5-4ff5-a15d-e88b7f9a5001)
 
@@ -79,7 +88,8 @@
       
     ![image](https://github.com/user-attachments/assets/20c932de-dd43-4179-81c4-0e63ae2e3e52)
   
-    ### **_nano_** : A text editor in linux
+    ### **_nano_** :
+    * A text editor in linux
     * Beginner-friendly
     * Simple and clear
       
@@ -90,7 +100,8 @@
         Ctrl + K → Cut a line
         Ctrl + U → Paste
       
-    ### **_vi_** : It is also a text editor
+    ### **_vi_** :
+    * It is also a text editor
     * The older, more powerful one
     * Comes pre-installed in all Linux systems
     * Harder for beginners
@@ -117,11 +128,13 @@
 * # ASSIGNMENT
   ---
   
-    * **_cp_** : Makes a copy of a file or directory(folder). The original file or directory is not removed. We can copy one file into another file and also file into a folder known as directory.
+    ### **_cp_** :
+    Makes a copy of a file or directory(folder). The original file or directory is not removed. We can copy one file into another file and also file into a folder known as directory.
       
     ![image](https://github.com/user-attachments/assets/c8fdfa54-d2d4-4a06-9b2e-f5b7c77d1f01)
   
-    * **_mv_** : Moves a file from one place to another. It removes the original file after moving to another file or directory.
+    ### **_mv_** :
+    Moves a file from one place to another. It removes the original file after moving to another file or directory.
       
     ![image](https://github.com/user-attachments/assets/09ecc750-93e1-4042-90a5-badd14fcfa80)
 
