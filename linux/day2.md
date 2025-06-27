@@ -35,7 +35,7 @@
       ![image](https://github.com/user-attachments/assets/b14725f2-de83-4304-b1a7-1741d80757ff)
 
 * # Linux commands
-    * **_ls_** : Shows all files and folders in the current place in the form of a list.
+    ### **_ls_** : Shows all files and folders in the current place in the form of a list.
       
     ![image](https://github.com/user-attachments/assets/7c73e51f-c456-42fc-9cc5-43673098771e)
   
@@ -62,7 +62,7 @@
     ![image](https://github.com/user-attachments/assets/fa4b9c98-c48c-41c0-afe4-3b118c8fd5fe)
 
     * **_mkdir_** : Create a new directory (folder).
-    * 
+      
     ![image](https://github.com/user-attachments/assets/118a6b10-efda-470b-9b82-dad491e20043)
   
     * **_rmdir_** : Deletes a directory, but only if it's empty.
