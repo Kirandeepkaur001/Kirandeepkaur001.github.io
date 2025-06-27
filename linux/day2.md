@@ -57,6 +57,19 @@
   
     ### **_whatis_** :
     Gives short information about a command.
+
+    ### ERROR : Shows nothing appropriate
+  
+    2 main reasons:
+      Man (manual) database is not updated
+      The command is unknown or not installed
+
+    ### FIXING THE ERROR : Just update the whatis database using:
+  
+    sudo mandb
+      This command builds the database so whatis can find info next time.
+
+
       
     ![image](https://github.com/user-attachments/assets/d85a918c-742a-44cc-8af8-7bd38d4965fc)
 
