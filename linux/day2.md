@@ -82,7 +82,16 @@
       
       *Ctrl + U → Paste*
       
-    ### **_vi_**
+    ### **_vi_** : It is also a text editor
+    * The older, more powerful one
+    * Comes pre-installed in all Linux systems
+    * Harder for beginners
+
+    ### __vi Modes:__
+    **_Command mode_** → You move around or delete/copy
+
+    **_Insert mode_** → You can type and edit text
+  
     ### **_vim_**
   
     ### **_cp_**
