@@ -73,6 +73,7 @@
     * Beginner-friendly
     * Simple and clear
     * Commands shown at the bottom
+      
       Ctrl + O → Save the file (O for Output)
       Ctrl + X → Exit
       Ctrl + K → Cut a line
