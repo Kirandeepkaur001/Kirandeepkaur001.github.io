@@ -14,6 +14,8 @@
      
     ### Categories:
     * **_Commandline shell_**
+      ![image](https://github.com/user-attachments/assets/e841590f-de47-4e8a-9911-42e79f8f4fc6)
+
     * **_Graphical shell_**
     
      
