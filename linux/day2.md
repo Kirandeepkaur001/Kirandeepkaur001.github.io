@@ -89,8 +89,16 @@
 
     ### __vi Modes:__
     **_Command mode_** → You move around or delete/copy
-
+  
     **_Insert mode_** → You can type and edit text
+
+      Press i → to go into Insert mode (you can now type)
+      Type your content
+      Press Esc → to leave insert mode and go to command mode
+      Type :w → to save (write)
+      Type :q → to quit
+      Type :wq → to save and quit
+      Type :q! → to force quit without saving
   
     ### **_vim_**
   
