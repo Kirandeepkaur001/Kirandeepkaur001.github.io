@@ -64,6 +64,9 @@
       Man (manual) database is not updated
       The command is unknown or not installed
 
+    ![image](https://github.com/user-attachments/assets/a0b13616-7df3-4251-83e6-bbf6e7d99fbf)
+
+
     ### FIXING THE ERROR : Just update the whatis database using:
   
       sudo mandb
