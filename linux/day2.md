@@ -41,8 +41,8 @@
     ### **_cd_**
     ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
   
-    ### **__**
-    ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
+    ### **_pwd_**
+    ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
   
     ### **_cp_**
     ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
