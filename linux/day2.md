@@ -72,7 +72,9 @@
       sudo mandb
       This command builds the database so whatis can find info next time.
 
+    ![image](https://github.com/user-attachments/assets/ee91d0bb-4793-41b0-a763-ecac65194c87)
 
+    ### ERROR RESOLVED :
       
     ![image](https://github.com/user-attachments/assets/d85a918c-742a-44cc-8af8-7bd38d4965fc)
 
