@@ -55,8 +55,8 @@
     ![image](https://github.com/user-attachments/assets/d8b395b5-8a64-419e-a19d-825ff19191b8)
 
     ### **_whereis_**
-    ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
-  
+    ![image](https://github.com/user-attachments/assets/fa4b9c98-c48c-41c0-afe4-3b118c8fd5fe)
+
     ### **_mkdir_**
     ![image](https://github.com/user-attachments/assets/118a6b10-efda-470b-9b82-dad491e20043)
   
