@@ -60,13 +60,13 @@
 
     ### ERROR : Shows nothing appropriate
   
-    2 main reasons:
+      2 main reasons:
       Man (manual) database is not updated
       The command is unknown or not installed
 
     ### FIXING THE ERROR : Just update the whatis database using:
   
-    sudo mandb
+      sudo mandb
       This command builds the database so whatis can find info next time.
 
 
