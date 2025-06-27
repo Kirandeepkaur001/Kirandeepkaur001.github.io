@@ -74,13 +74,10 @@
     * Simple and clear
     * Commands shown at the bottom
       
-      *Ctrl + O → Save the file (O for Output)*
-      
-      *Ctrl + X → Exit*
-      
-      *Ctrl + K → Cut a line*
-      
-      *Ctrl + U → Paste*
+      Ctrl + O → Save the file (O for Output)
+      Ctrl + X → Exit
+      Ctrl + K → Cut a line
+      Ctrl + U → Paste
       
     ### **_vi_** : It is also a text editor
     * The older, more powerful one
