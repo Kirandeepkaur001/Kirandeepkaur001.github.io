@@ -47,8 +47,9 @@
     ### **_mkdir_**
     ![image](https://github.com/user-attachments/assets/118a6b10-efda-470b-9b82-dad491e20043)
   
-    ### **_cp_**
-    ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
+    ### **_cat_**
+    ![image](https://github.com/user-attachments/assets/83287531-cee5-4ff5-a15d-e88b7f9a5001)
+  
 
  
     
