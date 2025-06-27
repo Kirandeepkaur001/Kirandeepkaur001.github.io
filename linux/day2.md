@@ -8,14 +8,16 @@
     
     ### Types of Shell:
     * **_Bash_** : Most commmon (friendlist)
+      
     Bash = A Command-Line Interpreter (Shell)
     Bash stands for Bourne Again SHell.
     It is the program you use to type commands in Linux or Mac. It lets you talk to the computer using text.
 
     💬 Think of it like:
     A messenger between you and the computer’s brain (kernel).
+  
     You type a command like:
-        cd Documents
+    * **_cd Documents_**
     Bash takes it, understands it, and tells the computer what to do.
 
 
