@@ -85,7 +85,7 @@
     * Comes pre-installed in all Linux systems
     * Harder for beginners
 
-    ### __vi Modes:__
+    ### *__vi Modes:__*
     **_Command mode_** → You move around or delete/copy
   
     **_Insert mode_** → You can type and edit text
