@@ -76,9 +76,7 @@
 
     ### ERROR RESOLVED :
       
-    ![image](https://github.com/user-attachments/assets/d85a918c-742a-44cc-8af8-7bd38d4965fc)
-
-    ![image](https://github.com/user-attachments/assets/923ae680-5209-474e-b5f4-ccd6833864c8)
+    
 
     ### **_whereis_** :
     Tells where the command is. Finds where a program is installed.
