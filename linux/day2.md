@@ -47,6 +47,9 @@
     ### **_mkdir_**
     ![image](https://github.com/user-attachments/assets/118a6b10-efda-470b-9b82-dad491e20043)
   
+    ### **_rmdir_**
+    ![image](https://github.com/user-attachments/assets/ced36ace-b9c9-4c9d-b152-6fd9cab8f637)
+  
     ### **_cat_**
     ![image](https://github.com/user-attachments/assets/83287531-cee5-4ff5-a15d-e88b7f9a5001)
 
