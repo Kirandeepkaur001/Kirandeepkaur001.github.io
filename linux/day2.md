@@ -44,6 +44,15 @@
     ### **_pwd_**
     ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
   
+    ### **_whoami_**
+    ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
+  
+    ### **_whatis_**
+    ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
+  
+    ### **_whereis_**
+    ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
+  
     ### **_mkdir_**
     ![image](https://github.com/user-attachments/assets/118a6b10-efda-470b-9b82-dad491e20043)
   
