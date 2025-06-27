@@ -45,7 +45,7 @@
     ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
   
     ### **_whoami_**
-    ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
+    ![image](https://github.com/user-attachments/assets/2d0babf3-c854-4885-9ba8-e106efe9840d)
   
     ### **_whatis_**
     ![image](https://github.com/user-attachments/assets/71149211-c6ed-4062-8f04-4833a4d81fa7)
