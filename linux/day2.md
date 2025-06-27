@@ -57,6 +57,12 @@
   
     ### **_touch_**
     ![image](https://github.com/user-attachments/assets/20c932de-dd43-4179-81c4-0e63ae2e3e52)
+  
+    ### **_cp_**
+    ![image](https://github.com/user-attachments/assets/20c932de-dd43-4179-81c4-0e63ae2e3e52)
+  
+    ### **_mv_**
+    ![image](https://github.com/user-attachments/assets/20c932de-dd43-4179-81c4-0e63ae2e3e52)
 
     
 
