@@ -69,14 +69,17 @@
     ### **_touch_**
     ![image](https://github.com/user-attachments/assets/20c932de-dd43-4179-81c4-0e63ae2e3e52)
   
-    ### **_nano_**
+    ### **_nano_** : A text editor in linux
     * Beginner-friendly
     * Simple and clear
     * Commands shown at the bottom
       
       *Ctrl + O → Save the file (O for Output)*
+      
       *Ctrl + X → Exit*
+      
       *Ctrl + K → Cut a line*
+      
       *Ctrl + U → Paste*
       
     ### **_vi_**
