@@ -85,7 +85,7 @@
     * Comes pre-installed in all Linux systems
     * Harder for beginners
 
-    ### *__vi Modes:__*
+    ### *__vi Modes__*
     **_Command mode_** → You move around or delete/copy
   
     **_Insert mode_** → You can type and edit text
@@ -98,7 +98,11 @@
       Type :wq → to save and quit
       Type :q! → to force quit without saving
   
-    ### **_vim_**
+    ### **_vim_** : Improved version of vi
+
+      vim = "Vi IMproved"
+      Better features, colors, undo/redo, etc.
+      Still works with same modes (insert and command)
   
     ### **_cp_**
     ![image](https://github.com/user-attachments/assets/c8fdfa54-d2d4-4a06-9b2e-f5b7c77d1f01)
