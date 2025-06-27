@@ -37,6 +37,19 @@
 * # Linux commands
     ### **_ls_**
     ![image](https://github.com/user-attachments/assets/7c73e51f-c456-42fc-9cc5-43673098771e)
+  
+    ### **_cd_**
+    ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
+  
+    ### **__**
+    ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
+  
+    ### **_cp_**
+    ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
+  
+    ### **_cp_**
+    ![image](https://github.com/user-attachments/assets/e4b50267-293a-4786-b246-5bf2b3764d98)
+
  
     
      
