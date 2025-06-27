@@ -1,5 +1,6 @@
 # DAY 2 :
-* # Kernel, Shell and Linux Commands      
+* # Kernel, Shell and Linux Commands
+  https://www.ssla.co.uk/wp-content/uploads/2020/07/linux-operating-system-600x493.png
     ### Kernel:
     It is a program that is core of computer's operating system with complete control over everything in the system. It interacts with hardware.
     ### Shell:
