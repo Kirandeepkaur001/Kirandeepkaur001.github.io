@@ -72,7 +72,8 @@
     ### **_nano_** : A text editor in linux
     * Beginner-friendly
     * Simple and clear
-    * Commands shown at the bottom
+      
+    **_Commands shown at the bottom_**
       
         Ctrl + O → Save the file (O for Output)
         Ctrl + X → Exit
