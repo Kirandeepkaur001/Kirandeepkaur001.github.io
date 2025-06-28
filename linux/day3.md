@@ -61,7 +61,9 @@
   **_syntax :_** echo [options] [string]
   
   **_examples :_** 
-  
+
+  ![image](https://github.com/user-attachments/assets/b4a22efb-6a4d-4554-9751-3f0ce0987abc)
+
   
       
 
