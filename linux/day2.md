@@ -254,7 +254,7 @@
   # Comparison between VirtualBox and VMware
   Both are software that create virtual computers (VMs) inside real computer. We can run Linux inside Windows, or Windows inside Linux, and more..
 
-    The difference between virtual box and VMware-
+      The difference between virtual box and VMware-
   
     | Feature           | VirtualBox                          | VMware                              |
     | -------------     | :-----------------                 :| -----------:                        |
