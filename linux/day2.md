@@ -201,7 +201,15 @@
 
   ![image](https://nepalisupport.wordpress.com/wp-content/uploads/2016/06/linux-filesystem.png)
 
+  #  Path Types
 
+  ### **_Absolute Path_**
+    Full path from the root
+    Example: /home/amandeep/Documents/resume.pdf
+
+  ### **_Relative Path_**
+    Path from your current location
+    Example (if you're in amandeep): Documents/resume.pdf
 
     
 
