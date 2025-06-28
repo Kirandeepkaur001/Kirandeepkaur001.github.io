@@ -256,16 +256,16 @@
 
       The difference between virtual box and VMware-
   
-    | Feature           | VirtualBox                          | VMware                              |
-    | -------------     | :-----------------                 :| -----------:                        |
-    | Cost              | Free and open-source                | Paid                                |
-    | Developer         | Oracle                              | VMware Inc.                         |
-    | Beginner-Friendly | Yes – easier for beginners          | Yes – but a bit more professional UI|
-    | Host OS Support   | Windows, Linux, macOS               | Windows, Linux(macOS not officially)|
-    | Guest OS Support  | Windows, Linux, macOS, BSD          | Windows, Linux, (macOS unofficial)  |
-    | Performance       | Slightly slower                     | Slightly faster                     |
-    | Advanced Features | Snapshots, shared folders, USB      | More advanced features              |
-    | Best Use Case     | Learning, personal VMs, open source | More professional use               |
+      | Feature           | VirtualBox                          | VMware                              |
+      | -------------     | :-----------------                 :| -----------:                        |
+      | Cost              | Free and open-source                | Paid                                |
+      | Developer         | Oracle                              | VMware Inc.                         |
+      | Beginner-Friendly | Yes – easier for beginners          | Yes – but a bit more professional UI|
+      | Host OS Support   | Windows, Linux, macOS               | Windows, Linux(macOS not officially)|
+      | Guest OS Support  | Windows, Linux, macOS, BSD          | Windows, Linux, (macOS unofficial)  |
+      | Performance       | Slightly slower                     | Slightly faster                     |
+      | Advanced Features | Snapshots, shared folders, USB      | More advanced features              |
+      | Best Use Case     | Learning, personal VMs, open source | More professional use               |
   
 
 
