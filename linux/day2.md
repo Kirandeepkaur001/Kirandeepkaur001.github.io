@@ -240,7 +240,11 @@
   
   ### **_GPT(Guided Partitioning Scheme)_**
     We have to manually set the partitions. It was an old method.
-    
+
+  # ISO File : A digital version of a CD/DVD
+    It’s a single file that contains all the files needed to install an operating system. For example - A zip file that holds a full OS installer (like Ubuntu or Windows).
+
+
   
 
     
