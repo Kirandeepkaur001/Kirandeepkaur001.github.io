@@ -3,10 +3,10 @@
   Two Operating Systems on One Computer. You can choose which system to use when your computer starts.
   
   # Bare Metal Installation
-    Installing an OS directly on a physical computer, not inside VMware. The OS can be installed using hard disk or pen drive.
+  Installing an OS directly on a physical computer, not inside VMware. The OS can be installed using hard disk or pen drive.
   
   # Meta Installation
-    Installing a package that installs many other related packages. It's like a "starter kit" — you install one thing, and it brings a bunch of things with it.
+  Installing a package that installs many other related packages. It's like a "starter kit" — you install one thing, and it brings a bunch of things with it.
 
       sudo apt install ubuntu-desktop
       ubuntu-desktop is a meta package
@@ -18,22 +18,22 @@
       * Wallpaper
   
   # Partitioning Scheme
-    Dividing your hard disk into sections, so that each part can be used for a different purpose. Linux uses multiple partitions to keep the system organized, secure, and flexible.
+  Dividing your hard disk into sections, so that each part can be used for a different purpose. Linux uses multiple partitions to keep the system organized, secure, and flexible.
       One partition for Windows
       Another for Linux
       Another for Data
 
   ### **_MBT(Master Boot Record)_**
-    The installer automatically creates partitions. We don’t have to manually set the root, swap, home, etc. It is suitable for old systems.
+  The installer automatically creates partitions. We don’t have to manually set the root, swap, home, etc. It is suitable for old systems.
   
   ### **_GPT(Guided Partitioning Scheme)_**
     We have to manually set the partitions. It is suitable for new systems.
 
   # ISO File : A digital version of a CD/DVD
-    It’s a single file that contains all the files needed to install an operating system. For example - A zip file that holds a full OS installer (like Ubuntu or Windows).
+  It’s a single file that contains all the files needed to install an operating system. For example - A zip file that holds a full OS installer (like Ubuntu or Windows).
   
   # VMware :  Virtual Computer Inside Real Computer
-    It's software that lets you run another operating system inside a window, like an app.
+  It's software that lets you run another operating system inside a window, like an app.
       You have Windows.
       You install VMware.
       You run Ubuntu Linux inside it — in a separate window.
