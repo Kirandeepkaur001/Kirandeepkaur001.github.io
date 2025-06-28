@@ -236,13 +236,35 @@
       Another for Data
 
   ### **_MBT(Master Boot Record)_**
-    The installer automatically creates partitions. We don’t have to manually set the root, swap, home, etc.
+    The installer automatically creates partitions. We don’t have to manually set the root, swap, home, etc. It is suitable for old systems.
   
   ### **_GPT(Guided Partitioning Scheme)_**
-    We have to manually set the partitions. It was an old method.
+    We have to manually set the partitions. It is suitable for new systems.
 
   # ISO File : A digital version of a CD/DVD
     It’s a single file that contains all the files needed to install an operating system. For example - A zip file that holds a full OS installer (like Ubuntu or Windows).
+  
+  # VMware :  Virtual Computer Inside Real Computer
+    It's software that lets you run another operating system inside a window, like an app.
+      You have Windows.
+      You install VMware.
+      You run Ubuntu Linux inside it — in a separate window.
+      You can use both at the same time..
+      
+  # Comparison between VirtualBox and VMware
+    Both are software that create virtual computers (VMs) inside real computer. We can run Linux inside Windows, or Windows inside Linux, and more..
+        | Feature                     | **VirtualBox** 🧱                   | **VMware Workstation / Player** 🔧           |
+| --------------------------- | ----------------------------------- | -------------------------------------------- |
+| 💸 **Cost**                 | Free and open-source                | Free (Player), Paid (Workstation Pro)        |
+| 🏢 **Developer**            | Oracle                              | VMware Inc.                                  |
+| 🧑‍💻 **Beginner-Friendly** | Yes – easier for beginners          | Yes – but a bit more professional UI         |
+| 💻 **Host OS Support**      | Windows, Linux, macOS               | Windows, Linux (macOS not officially)        |
+| 🧩 **Guest OS Support**     | Windows, Linux, macOS, BSD          | Windows, Linux, (macOS unofficial)           |
+| 🧰 **Performance**          | Slightly slower                     | Slightly faster (especially for 3D/graphics) |
+| 🔧 **Advanced Features**    | Snapshots, shared folders, USB      | More advanced features in Pro version        |
+| 📦 **Integration**          | Good, but basic                     | Very good (drag-drop, clipboard, tools)      |
+| 🛠 **Best Use Case**        | Learning, personal VMs, open source | More professional use, better performance    |
+  
 
 
   
