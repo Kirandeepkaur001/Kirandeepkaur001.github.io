@@ -212,8 +212,10 @@
     * Example (if you're in amandeep): Documents/resume.pdf
   
   # Dual Boot
-    Two Operating Systems on One Computer
-    You can choose which system to use when your computer starts.
+    Two Operating Systems on One Computer. You can choose which system to use when your computer starts.
+  
+  # Bare Metal Installation
+    Installing an OS directly on a physical computer, not inside VMware. The OS can be installed using hard disk or pen drive.
   
 
     
