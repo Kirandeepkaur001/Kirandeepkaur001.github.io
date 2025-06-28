@@ -252,7 +252,7 @@
       You can use both at the same time..
       
   # Comparison between VirtualBox and VMware
-    Both are software that create virtual computers (VMs) inside real computer. We can run Linux inside Windows, or Windows inside Linux, and more..
+      Both are software that create virtual computers (VMs) inside real computer. We can run Linux inside Windows, or Windows inside Linux, and more..
   
   | Feature           | VirtualBox                          | VMware                              |
   | -------------     | :-----------------                 :| -----------:                        |
