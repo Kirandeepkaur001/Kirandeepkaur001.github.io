@@ -1,4 +1,4 @@
-# DAY 2 :
+# DAY 3 :
   # Dual Boot
   Two Operating Systems on One Computer. You can choose which system to use when your computer starts.
   
