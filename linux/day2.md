@@ -166,6 +166,7 @@
 
     ![image](https://github.com/user-attachments/assets/69ae177c-f140-4a4b-ba8c-45fc044425b3)
     ---
+    ---
 
   # File structure
   A file structure refers to how files and directories (folders) are organized in a system. It’s like a tree where folders (called directories) can contain files or other folders.
