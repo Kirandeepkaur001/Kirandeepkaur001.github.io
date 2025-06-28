@@ -58,9 +58,9 @@
   # echo
   echo is a command used in Linux to display (print) text or messages on the terminal. Think of it like speaking something on the screen.
 
-  **_syntax:_** : echo [options] [string]
+  **_syntax :_** echo [options] [string]
   
-  **_examples_**
+  **_examples :_** 
   
   
       
