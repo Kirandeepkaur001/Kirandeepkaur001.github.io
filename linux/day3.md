@@ -53,7 +53,14 @@
   | Guest OS Support  | Windows, Linux, macOS, BSD | Windows, Linux, (macOS unofficial) |  
   | Performance       | Slightly slower | Slightly faster |                     
   | Advanced Features | Snapshots, shared folders, USB | More advanced features |              
-  | Best Use Case     | Learning, personal VMs, open source | More professional use |               
+  | Best Use Case     | Learning, personal VMs, open source | More professional use |
+
+  # echo
+  echo is a command used in Linux to display (print) text or messages on the terminal. Think of it like speaking something on the screen.
+
+  **_syntax:_** : echo [options] [string]
+  **_examples_**
+  
   
       
 
