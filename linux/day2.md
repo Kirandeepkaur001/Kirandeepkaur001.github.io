@@ -254,11 +254,11 @@
   # Comparison between VirtualBox and VMware
       Both are software that create virtual computers (VMs) inside real computer. We can run Linux inside Windows, or Windows inside Linux, and more..
   
-  | Feature           | VirtualBox                          | VMware                              |
-  | -------------     | :-----------------                 :| -----------:                        |
-  | Cost              | Free and open-source                | Paid                                |
-  | Developer         | Oracle                              | VMware Inc.                         |
-  | Beginner-Friendly | Yes – easier for beginners          | Yes – but a bit more professional UI|
+    | Feature           | VirtualBox                          | VMware                              |
+    | -------------     | :-----------------                 :| -----------:                        |
+    | Cost              | Free and open-source                | Paid                                |
+    | Developer         | Oracle                              | VMware Inc.                         |
+    | Beginner-Friendly | Yes – easier for beginners          | Yes – but a bit more professional UI|
   | Host OS Support   | Windows, Linux, macOS               | Windows, Linux(macOS not officially)|
   | Guest OS Support  | Windows, Linux, macOS, BSD          | Windows, Linux, (macOS unofficial)  |
   | Performance       | Slightly slower                     | Slightly faster                     |
