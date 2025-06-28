@@ -27,7 +27,7 @@
   The installer automatically creates partitions. We don’t have to manually set the root, swap, home, etc. It is suitable for old systems.
   
   ### **_GPT(Guided Partitioning Scheme)_**
-    We have to manually set the partitions. It is suitable for new systems.
+  We have to manually set the partitions. It is suitable for new systems.
 
   # ISO File : A digital version of a CD/DVD
   It’s a single file that contains all the files needed to install an operating system. For example - A zip file that holds a full OS installer (like Ubuntu or Windows).
