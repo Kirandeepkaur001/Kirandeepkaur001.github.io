@@ -205,11 +205,11 @@
 
   ### **_Absolute Path_**
     Full path from the root
-    Example: /home/amandeep/Documents/resume.pdf
+    * Example: /home/amandeep/Documents/resume.pdf
 
   ### **_Relative Path_**
     Path from your current location
-    Example (if you're in amandeep): Documents/resume.pdf
+    * Example (if you're in amandeep): Documents/resume.pdf
 
     
 
