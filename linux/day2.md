@@ -257,7 +257,7 @@
       The difference between virtual box and VMware-
   
        Feature           | VirtualBox                          | VMware                              
-       ----------------- | ----------------------------------- | -----------------------------------       
+       ------------------| ------------------------------------| ------------------------------------      
        Cost              | Free and open-source                | Paid                                
        Developer         | Oracle                              | VMware Inc.                         
        Beginner-Friendly | Yes – easier for beginners          | Yes – but a bit more professional UI
