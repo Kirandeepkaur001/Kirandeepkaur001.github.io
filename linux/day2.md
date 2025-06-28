@@ -217,6 +217,31 @@
   # Bare Metal Installation
     Installing an OS directly on a physical computer, not inside VMware. The OS can be installed using hard disk or pen drive.
   
+  # Meta Installation
+    Installing a package that installs many other related packages. It's like a "starter kit" — you install one thing, and it brings a bunch of things with it.
+
+      sudo apt install ubuntu-desktop
+      ubuntu-desktop is a meta package
+
+      It installs:
+      * File manager
+      * Desktop environment
+      * Login screen
+      * Wallpaper
+  
+  # Partitioning Scheme
+    Dividing your hard disk into sections, so that each part can be used for a different purpose. Linux uses multiple partitions to keep the system organized, secure, and flexible.
+      One partition for Windows
+      Another for Linux
+      Another for Data
+
+  ### **_MBT(Master Boot Record)_**
+    The installer automatically creates partitions. We don’t have to manually set the root, swap, home, etc.
+  
+  ### **_GPT(Guided Partitioning Scheme)_**
+    We have to manually set the partitions. It was an old method.
+    
+  
 
     
 
