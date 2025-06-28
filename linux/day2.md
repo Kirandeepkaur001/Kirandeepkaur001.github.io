@@ -197,6 +197,8 @@
       Documents/, Music/, Pictures/ → Subdirectories under your user
       Files like resume.pdf and photo.jpg are stored inside directories
 
+  ![image](https://nepalisupport.wordpress.com/wp-content/uploads/2016/06/linux-filesystem.png)
+
 
 
     
