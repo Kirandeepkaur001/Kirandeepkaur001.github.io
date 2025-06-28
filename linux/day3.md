@@ -65,6 +65,9 @@
   ![image](https://github.com/user-attachments/assets/b4a22efb-6a4d-4554-9751-3f0ce0987abc)
 
   ![image](https://github.com/user-attachments/assets/f0ed4a51-df6d-4dcf-b920-5154f6254b3e)
+  
+  ![image](https://github.com/user-attachments/assets/72898c0e-3e10-4aa5-850b-e07fbb2d6cb0)
+
 
 | Command                  | What it does                   |
 | ------------------------ | ------------------------------ |
