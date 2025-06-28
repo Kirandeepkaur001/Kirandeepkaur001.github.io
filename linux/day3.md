@@ -66,6 +66,18 @@
 
   ![image](https://github.com/user-attachments/assets/f0ed4a51-df6d-4dcf-b920-5154f6254b3e)
 
+| Command                  | What it does                   |
+| ------------------------ | ------------------------------ |
+| `echo Hello`             | Prints Hello                   |
+| `echo -n "Hi"`           | No new line at end             |
+| `echo -e "a\nb"`         | New line between a and b       |
+| `echo -e "x\ty"`         | Adds a tab between x and y     |
+| `echo $HOME`             | Shows value of variable `HOME` |
+| `echo "This is \$5"`     | Prints `$5` with `$` visible   |
+| `echo "text" > file.txt` | Saves text to file.txt         |
+| `echo "add" >> file.txt` | Adds text to end of file.txt   |
+
+
 
   
       
