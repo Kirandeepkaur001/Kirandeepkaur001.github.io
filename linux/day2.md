@@ -178,23 +178,24 @@
     Example: Documents, Downloads, Music
 
   ### **_Tree-Like Structure (Hierarchical)_**
-    /
-    ├── home/
-    │   └── amandeep/
-    │       ├── Documents/
-    │       │   └── resume.pdf
-    │       ├── Music/
-    │       └── Pictures/
-    │           └── photo.jpg
-    ├── bin/
-    ├── etc/
-    └── var/
+  
+      /
+      ├── home/
+      │   └── amandeep/
+      │       ├── Documents/
+      │       │   └── resume.pdf
+      │       ├── Music/
+      │       └── Pictures/
+      │           └── photo.jpg
+      ├── bin/
+      ├── etc/
+      └── var/
 
-    / → Root directory (the top of the structure)
-    home/ → A folder inside root
-    amandeep/ → Your personal user directory
-    Documents/, Music/, Pictures/ → Subdirectories under your user
-    Files like resume.pdf and photo.jpg are stored inside directories
+      / → Root directory (the top of the structure)
+      home/ → A folder inside root
+      amandeep/ → Your personal user directory
+      Documents/, Music/, Pictures/ → Subdirectories under your user
+      Files like resume.pdf and photo.jpg are stored inside directories
 
 
 
