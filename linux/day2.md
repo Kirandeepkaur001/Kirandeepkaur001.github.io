@@ -181,7 +181,7 @@
   
       /
       ├── home/
-      │   └── amandeep/
+      │   └── kirandeep/
       │       ├── Documents/
       │       │   └── resume.pdf
       │       ├── Music/
@@ -193,7 +193,7 @@
 
       / → Root directory (the top of the structure)
       home/ → A folder inside root
-      amandeep/ → Your personal user directory
+      kirandeep/ → Your personal user directory
       Documents/, Music/, Pictures/ → Subdirectories under your user
       Files like resume.pdf and photo.jpg are stored inside directories
 
