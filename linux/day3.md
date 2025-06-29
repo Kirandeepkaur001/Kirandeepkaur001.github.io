@@ -99,6 +99,9 @@
 
   ### **_COMPARING TWO NUMBERS_**
 
+  ![image](https://github.com/user-attachments/assets/9665dbe9-d2dd-4c9b-acf2-8968b46f196b)
+
+
   ### **_PRINT NO. FROM 1 TO 5_**
 
   ### **_MULTIPLICATION TABLE_**
