@@ -143,7 +143,59 @@
   | o    | others    | Everyone else                 |
   | a    | all       | user + group + others         |
 
+  ### **_Types of Permissions_**
   
+  | Symbol | Permission | Meaning                                   |
+  | ------ | ---------- | ------------------------------------------|
+  | r    | Read       | Can view/open the file                      |
+  | w    | Write      | Can modify/edit the file                    |
+  | x    | Execute    | Can run the file (if it’s a script/program) |
+
+  ### **_ Two Ways to Use chmod_**
+
+    ### **_1. Symbolic Mode (Easy to read)_**
+    | Command           | What it Does                  |
+    | ----------------- | ----------------------------- |
+    | chmod u+x file.sh | User can run the file         |
+    | chmod g-w file.sh | Group can't edit the file     |
+    | chmod o+r file.sh | Others can read the file      |
+    | chmod a+x file.sh | Everyone can execute the file |
+  
+    ### **_2. Numeric Mode (Uses numbers)_**
+        Each permission is a number:
+        r = 4
+        w = 2
+        x = 1
+
+        You add them:
+        7 = read (4) + write (2) + execute (1)
+        6 = read + write
+        5 = read + execute
+        4 = read only
+
+        Example:
+        chmod 755 file.sh
+
+        7 → user = read, write, execute
+        5 → group = read, execute
+        5 → others = read, execute
+
+### 1. Make a Script Executable
+      You wrote a shell script and want to run it directly.
+
+### 2. Make a File Read-Only
+      You want to protect a file so no one (even you) can accidentally edit it.
+      
+        How to read the file:
+        These commands will work:
+        cat important.txt
+        less important.txt
+        more important.txt
+        head important.txt
+        tail important.txt
+        ✔️ You can view the content, but ❌ cannot edit or save changes.
+
+        
   ### Change owner(chmown)
     Change the owner of a file
     Sometimes, files are created by the system or another user.
