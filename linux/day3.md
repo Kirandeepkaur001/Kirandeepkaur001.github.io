@@ -110,6 +110,9 @@
   ![image](https://github.com/user-attachments/assets/1255dfcb-3126-404c-8f80-4730b5ea4e98)
   
   ### **_MULTIPLICATION TABLE_**
+
+  ![image](https://github.com/user-attachments/assets/815e5721-cb05-4a76-a8ed-369441cb13a0)
+
   
   ### **_BIO DATA_**
 
