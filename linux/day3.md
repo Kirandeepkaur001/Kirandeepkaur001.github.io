@@ -211,6 +211,16 @@
     Sometimes, files are created by the system or another user.
     You can use chown to give ownership to yourself or someone else.
 
+      It lets you change the owner and/or group of a file or directory
+      Every file in Linux has:
+      An owner (a user)
+      A group (a set of users)
+
+       Example:
+      File: report.txt
+      Owner: amandeep
+      Group: students
+
   ### **_Syntax_**
   chown [OPTIONS] user[:group] file
  
@@ -223,14 +233,40 @@
 
   ### **_Examples_**
   
-  | Command                      | What It Does                             |
-  | ---------------------------- | ---------------------------------------- |
-  | chown user1 file.txt         | Change owner to `user1`                  |
-  | chown user1: file.txt        | Change owner, group stays the same       |
-  | chown :group1 file.txt       | Change only the group to `group1`        |
-  | chown user1:group1 file.txt  | Change both owner and group              |
-  | sudo chown amandeep file.txt | Run as root (needed if you're not owner) |
+  | Command                         | Meaning                                        |
+  | ------------------------------- | ---------------------------------------------- |
+  | chown amandeep file.txt       | Make `kirandeep` the owner of `file.txt`        |
+  | chown :staff file.txt        | Change only the **group** to `staff`           |
+  | chown kirandeep:staff file.txt | Change both **owner** and **group**            |
+  | sudo chown kirandeep file.txt  | Run with **root powers** (if you're not owner) |
 
+### 1. Change Owner Only
+This changes only the user who owns the file. The group stays the same.
+
+
+
+### 2. Change Owner and Group
+This changes both the owner and the group.
+
+
+
+### 3. Change Only the Group
+This changes only the group.
+
+
+
+### 4. Change Ownership of a Folder and Its Contents (Recursive)
+-R changes ownership of all files and directories(folders) inside myfolder
+
+
+
+### 5. Check Ownership of a File
+Using ls -l file.txt
+
+
+
+### 6. Use sudo If You're Not the Owner
+sudo chown user file.txt
 
 
   
