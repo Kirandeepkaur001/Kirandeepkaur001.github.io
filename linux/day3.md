@@ -187,7 +187,7 @@
 
 ![image](https://github.com/user-attachments/assets/bd64b5e9-65be-47bf-9746-87c1978b195d)
 
-### 2. Make a File Read-Only
+### **_2. Make a File Read-Only_**
   You want to protect a file so no one (even you) can accidentally edit it.
       
         How to read the file:
@@ -201,19 +201,19 @@
 
 ![image](https://github.com/user-attachments/assets/f1d31a08-7e0b-4063-8891-f3fdc1060960)
 
-### 3. Give Execute Permission to All Users
+### **_3. Give Execute Permission to All Users_**
   You have a program/script. Everyone can execute it(user, group, others).
 
 ![image](https://github.com/user-attachments/assets/4965cd0f-ebb3-4f8e-8dfd-7dec959f84ee)
 
-### 4.  Remove All Permissions (Lock a File Completely)
+### **_4. Remove All Permissions (Lock a File Completely)_**
   Temporarily block all access to a file.
 
 ![image](https://github.com/user-attachments/assets/3ef3fb7a-6636-4616-a689-6394d545b852)
 
 ![image](https://github.com/user-attachments/assets/167e35af-1012-42f9-abb7-2b9617699706)
 
-### 5. Set Full Access for User, Read-Only for Others
+### **_5. Set Full Access for User, Read-Only for Others_**
   You want to edit a file, but others can only view it.
 
 ![image](https://github.com/user-attachments/assets/e2c9e84c-4885-48a7-9ea0-acdb9d925365)
@@ -255,37 +255,33 @@
   | chown kirandeep:staff file.txt | Change both **owner** and **group**            |
   | sudo chown kirandeep file.txt  | Run with **root powers** (if you're not owner) |
 
-### 1. Change Owner Only
+### **_1. Change Owner Only_**
 This changes only the user who owns the file. The group stays the same.
 
 ![image](https://github.com/user-attachments/assets/b41ee9c0-03f5-486c-890a-364790a4551c)
 
 ![image](https://github.com/user-attachments/assets/66abf7e4-7281-43f9-af18-4784fc5c69a1)
 
-### 2. Change Only the Group
+### **_2. Change Only the Group_**
 This changes only the group.
 
 ![image](https://github.com/user-attachments/assets/224e8023-2629-4aed-8f6b-866bf6ffe265)
 
-### 3. Change Owner and Group
+### **_3. Change Owner and Group_**
 This changes both the owner and the group.
 
 ![image](https://github.com/user-attachments/assets/99dd09f1-f1af-462f-b83a-8c9fa096ad74)
 
-### 4. Change Ownership of a Folder and Its Contents (Recursive)
+### **_4. Change Ownership of a Folder and Its Contents (Recursive)_**
 -R changes ownership of all files and directories(folders) inside myfolder
 
 ![image](https://github.com/user-attachments/assets/e316bb8b-dcbf-40c4-8cfd-83827be7dd7c)
 
-### 5. Check Ownership of a File
+### **_5. Check Ownership of a File_**
 Using ls -l file.txt
 
-
-
-### 6. Use sudo If You're Not the Owner
+### **_6. Use sudo If You're Not the Owner_**
 sudo chown user file.txt
-
-![image](https://github.com/user-attachments/assets/3dd90ee7-5eb6-4c96-b0f5-6d80f4a60224)
 
 ---
 
@@ -312,6 +308,8 @@ command1 | command2
   ls -> lists files
   sort -> sorts them alphabetically
   Output -> A sorted list of your files
+
+![image](https://github.com/user-attachments/assets/3dd90ee7-5eb6-4c96-b0f5-6d80f4a60224)
 
 ### **_Why to use pipes?_**
   Pipes let you:
