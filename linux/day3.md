@@ -105,6 +105,9 @@
 
   ### **_PRINT NO. FROM 1 TO 5_**
 
+  ![image](https://github.com/user-attachments/assets/02555458-09b8-428b-b58f-f2d2070ff3ad)
+
+
   ### **_MULTIPLICATION TABLE_**
   
   ### **_BIO DATA_**
