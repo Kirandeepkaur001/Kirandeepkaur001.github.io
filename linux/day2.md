@@ -168,9 +168,26 @@
 
     ![image](https://github.com/user-attachments/assets/8c438089-333a-4111-80d2-ae1ced0730f3)
 
-   
+ # sh shell
+    sh is a basic shell (a command-line interpreter).
+    It reads and runs commands, like echo, ls, cd, etc.
+    You use it to run scripts written in a file.
+    Think of sh like a robot that reads your .sh file line by line and does what you tell it to.
+
+# .sh file
+    A .sh file is just a text file full of Linux commands.
+    It usually starts with this line:
+    #!/bin/sh
+  
+    That line tells the computer:
+    “Use the sh shell to run this file.”
+
+**_What happens in the background_**
+
+    Imagine sh is a person reading your .sh file:
+    sh says: Okay, I see "echo Hello", I will say Hello.  
     
-![image](https://github.com/user-attachments/assets/dce7beeb-d812-4a89-8e71-d2e9bd39e65f)
+  ![image](https://github.com/user-attachments/assets/dce7beeb-d812-4a89-8e71-d2e9bd39e65f)
 
   
 
