@@ -180,9 +180,9 @@
         5 → group = read, execute
         5 → others = read, execute
 
-# Cases
+### Examples
 
-### 1. Make a Script Executable
+### **_1. Make a Script Executable_**
   You wrote a shell script and want to run it directly.
 
 ![image](https://github.com/user-attachments/assets/bd64b5e9-65be-47bf-9746-87c1978b195d)
