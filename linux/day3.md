@@ -96,8 +96,8 @@
 
 **_What happens in the background_**
 
-  Imagine sh is a person reading your .sh file:
-  sh says: Okay, I see "echo Hello", I will say Hello.
+    Imagine sh is a person reading your .sh file:
+    sh says: Okay, I see "echo Hello", I will say Hello.
 
 
   
