@@ -269,11 +269,37 @@ Using ls -l file.txt
 sudo chown user file.txt
 
 
-  
+---
+
+# Redirection
+Redirection in Linux is used to **send output to files**, **take input from filesinstead of keyboard(redirection)**, or **append data** instead of showing it on the screen.
+
+| Type | Meaning                        | Syntax & Example                    |
+|------|--------------------------------|-------------------------------------|
+| `>`  | Write/overwrite to a file      | `echo hi > file.txt`                |
+| `>>` | Append to a file               | `echo hi >> file.txt`               |
+| `<`  | Input redirection (read from a file) | `sort < file.txt`             |
       
+# Pipes
+Take the file of particular one extension like a filter. A pipe is used to connect the output of one command to the input of another.
 
+Command 1 → output → becomes input for → Command 2
+
+### **_Syntax_**
+command1 | command2
+
+### **_Example_**
+  ls | sort
   
+  ls -> lists files
+  sort -> sorts them alphabetically
+  Output -> A sorted list of your files
 
+### **_Why to use pipes?_**
+  Pipes let you:
+  1. Combine multiple small commands
+  2. Avoid temporary files
+  3. Process data quickly
     
 
   
