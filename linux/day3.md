@@ -203,13 +203,35 @@
         
 ### 5. Set Full Access for User, Read-Only for Others
   You want to edit a file, but others can only view it.
-        
-  ### Change owner(chmown)
+
+# ASSIGNMENT 
+---
+  ### Change owner(chown)
     Change the owner of a file
     Sometimes, files are created by the system or another user.
     You can use chown to give ownership to yourself or someone else.
+
+  ### **_Syntax_**
+  chown [OPTIONS] user[:group] file
  
+  | Part   | Meaning                      |
+  | ------ | ---------------------------- |
+  |OPTIONS |extra settings to control how chown works|
+  | user   | new owner (required)         |
+  | :group | optional – new group         |
+  | file   | the file or folder to change |
+
+  ### **_Examples_**
   
+  | Command                      | What It Does                             |
+  | ---------------------------- | ---------------------------------------- |
+  | chown user1 file.txt         | Change owner to `user1`                  |
+  | chown user1: file.txt        | Change owner, group stays the same       |
+  | chown :group1 file.txt       | Change only the group to `group1`        |
+  | chown user1:group1 file.txt  | Change both owner and group              |
+  | sudo chown amandeep file.txt | Run as root (needed if you're not owner) |
+
+
 
   
       
