@@ -286,7 +286,7 @@ sudo chown user file.txt
 ---
 
 # Redirection
-Redirection in Linux is used to **send output to files**, **take input from filesinstead of keyboard(redirection)**, or **append data** instead of showing it on the screen.
+Redirection in Linux is used to **send output to files**, **take input from files instead of keyboard(redirection)**, or **append data** instead of showing it on the screen.
 
 | Type | Meaning                        | Syntax & Example                    |
 |------|--------------------------------|-------------------------------------|
