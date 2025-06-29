@@ -80,6 +80,27 @@
 | `echo "text" > file.txt` | Saves text to file.txt         |
 | `echo "add" >> file.txt` | Adds text to end of file.txt   |
 
+# Shell Programming
+    Shell programming (or shell scripting) means:
+    Writing a set of Linux commands in a file, and
+    Letting the shell (like bash or sh) run them one by one.
+    File ends with .sh (e.g., script.sh)
+
+* # ASSIGNMENT
+  ---
+
+  ### **_Programs using Shell programming_**
+
+  ### **_SIMPLE ADDITION_**
+  
+  ### **_COMPARING TWO NUMBERS_**
+
+  ### **_PRINT NO. FROM 1 TO 5_**
+
+  ### **_MULTIPLICATION TABLE_**
+  
+  ### **_BIO DATA_**
+
 
 
 
