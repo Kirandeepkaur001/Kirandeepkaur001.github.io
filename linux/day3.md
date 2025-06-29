@@ -180,6 +180,8 @@
         5 → group = read, execute
         5 → others = read, execute
 
+# Examples
+
 ### 1. Make a Script Executable
   You wrote a shell script and want to run it directly.
 
