@@ -189,6 +189,21 @@
     
   ![image](https://github.com/user-attachments/assets/dce7beeb-d812-4a89-8e71-d2e9bd39e65f)
 
+  ![image](https://github.com/user-attachments/assets/d55b492c-eece-43fd-a27b-478701451766)
+
+# Shell Programming
+    Shell programming (or shell scripting) means:
+    Writing a set of Linux commands in a file, and
+    Letting the shell (like bash or sh) run them one by one.
+    File ends with .sh (e.g., script.sh)
+
+* # ASSIGNMENT
+  ---
+
+  ### **_Programs using Shell programming_**
+
+  
+
   
 
  
