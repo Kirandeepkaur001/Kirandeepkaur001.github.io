@@ -247,13 +247,13 @@ This changes only the user who owns the file. The group stays the same.
 
 
 
-### 2. Change Owner and Group
-This changes both the owner and the group.
-
-
-
-### 3. Change Only the Group
+### 2. Change Only the Group
 This changes only the group.
+
+
+
+### 3. Change Owner and Group
+This changes both the owner and the group.
 
 
 
