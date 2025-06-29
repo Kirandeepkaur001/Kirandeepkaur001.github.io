@@ -80,6 +80,26 @@
 | `echo "text" > file.txt` | Saves text to file.txt         |
 | `echo "add" >> file.txt` | Adds text to end of file.txt   |
 
+# sh shell
+  sh is a basic shell (a command-line interpreter).
+  It reads and runs commands, like echo, ls, cd, etc.
+  You use it to run scripts written in a file.
+  Think of sh like a robot that reads your .sh file line by line and does what you tell it to.
+
+# .sh file
+  A .sh file is just a text file full of Linux commands.
+  
+  It usually starts with this line:
+  #!/bin/sh
+  
+  That line tells the computer:
+  “Use the sh shell to run this file.”
+
+**_What happens in the background_**
+
+Imagine sh is a person reading your .sh file:
+
+sh says: Okay, I see "echo Hello", I will say Hello.
 
 
   
