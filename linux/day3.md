@@ -180,7 +180,7 @@
         5 → group = read, execute
         5 → others = read, execute
 
-# Examples
+# Cases
 
 ### 1. Make a Script Executable
   You wrote a shell script and want to run it directly.
@@ -218,7 +218,7 @@
       An owner (a user)
       A group (a set of users)
 
-       Example:
+      Example:
       File: report.txt
       Owner: amandeep
       Group: students
