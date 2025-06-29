@@ -93,7 +93,9 @@
 
   ### **_SIMPLE ADDITION_**
   
-  ![image](https://github.com/user-attachments/assets/9e37ddee-202e-4f73-aa5a-28d8042cf6eb)
+![image](https://github.com/user-attachments/assets/9e37ddee-202e-4f73-aa5a-28d8042cf6eb)
+
+![image](https://github.com/user-attachments/assets/eed7090f-17f6-4e8a-812a-dd8b1aefe07c)
 
   ### **_COMPARING TWO NUMBERS_**
 
