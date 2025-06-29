@@ -117,8 +117,9 @@
   
   ### **_BIO DATA_**
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/9ac40c52-f3d5-4b93-9c17-279fc08a5052)
 
+  
 
 
   
