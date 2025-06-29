@@ -195,6 +195,14 @@
         tail important.txt
         ✔️ You can view the content, but ❌ cannot edit or save changes.
 
+### 3. Give Execute Permission to All Users
+  You have a program/script. Everyone can execute it(user, group, others).
+        
+### 4.  Remove All Permissions (Lock a File Completely)
+  Temporarily block all access to a file.
+        
+### 5. Set Full Access for User, Read-Only for Others
+  You want to edit a file, but others can only view it.
         
   ### Change owner(chmown)
     Change the owner of a file
