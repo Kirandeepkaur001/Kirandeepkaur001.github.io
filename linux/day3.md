@@ -121,7 +121,35 @@
 
   ![image](https://github.com/user-attachments/assets/da1de9b0-47ee-49fe-adbb-8984aaa81a83)
 
+  # File and Directory Permission
 
+  ### **_Change mode(chmod)_**
+    Change file/directory permissions
+    It controls who can read, write, or run a file.
+    Giving keys to people to open, write, or use a file.
+
+  ### **_Why do we need it?_**
+    To control who can do what with a file:
+    Read (r)
+    Write (w)
+    Execute (x)
+
+  ### **_Types of Users in File Permissions_**
+  
+| Symbol | User Type | Who?                        |
+| ------ | --------- | --------------------------- |
+| u    | user      | The owner of the file         |
+| g    | group     | Other users in the same group |
+| o    | others    | Everyone else                 |
+| a    | all       | user + group + others         |
+
+  
+  ### Change owner(chmown)
+    Change the owner of a file
+    Sometimes, files are created by the system or another user.
+    You can use chown to give ownership to yourself or someone else.
+ 
+  
 
   
       
