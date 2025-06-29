@@ -181,10 +181,10 @@
         5 → others = read, execute
 
 ### 1. Make a Script Executable
-    You wrote a shell script and want to run it directly.
+  You wrote a shell script and want to run it directly.
 
 ### 2. Make a File Read-Only
-    You want to protect a file so no one (even you) can accidentally edit it.
+  You want to protect a file so no one (even you) can accidentally edit it.
       
         How to read the file:
         These commands will work:
