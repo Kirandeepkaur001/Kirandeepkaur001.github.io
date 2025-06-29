@@ -107,7 +107,8 @@
 
   ![image](https://github.com/user-attachments/assets/02555458-09b8-428b-b58f-f2d2070ff3ad)
 
-
+  ![image](https://github.com/user-attachments/assets/1255dfcb-3126-404c-8f80-4730b5ea4e98)
+  
   ### **_MULTIPLICATION TABLE_**
   
   ### **_BIO DATA_**
