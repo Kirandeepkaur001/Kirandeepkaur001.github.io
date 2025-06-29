@@ -151,7 +151,7 @@
   | w    | Write      | Can modify/edit the file                    |
   | x    | Execute    | Can run the file (if it’s a script/program) |
 
-  ### **_ Two Ways to Use chmod_**
+  ### **_Two Ways to Use chmod_**
 
     ### **_1. Symbolic Mode (Easy to read)_**
     | Command           | What it Does                  |
@@ -181,10 +181,10 @@
         5 → others = read, execute
 
 ### 1. Make a Script Executable
-      You wrote a shell script and want to run it directly.
+    You wrote a shell script and want to run it directly.
 
 ### 2. Make a File Read-Only
-      You want to protect a file so no one (even you) can accidentally edit it.
+    You want to protect a file so no one (even you) can accidentally edit it.
       
         How to read the file:
         These commands will work:
