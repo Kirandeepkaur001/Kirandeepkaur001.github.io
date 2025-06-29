@@ -136,12 +136,12 @@
 
   ### **_Types of Users in File Permissions_**
   
-| Symbol | User Type | Who?                        |
-| ------ | --------- | --------------------------- |
-| u    | user      | The owner of the file         |
-| g    | group     | Other users in the same group |
-| o    | others    | Everyone else                 |
-| a    | all       | user + group + others         |
+  | Symbol | User Type | Who?                        |
+  | ------ | --------- | --------------------------- |
+  | u    | user      | The owner of the file         |
+  | g    | group     | Other users in the same group |
+  | o    | others    | Everyone else                 |
+  | a    | all       | user + group + others         |
 
   
   ### Change owner(chmown)
