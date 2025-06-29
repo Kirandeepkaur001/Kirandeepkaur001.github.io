@@ -93,14 +93,15 @@
 
   ### **_SIMPLE ADDITION_**
   
-![image](https://github.com/user-attachments/assets/9e37ddee-202e-4f73-aa5a-28d8042cf6eb)
+  ![image](https://github.com/user-attachments/assets/9e37ddee-202e-4f73-aa5a-28d8042cf6eb)
 
-![image](https://github.com/user-attachments/assets/eed7090f-17f6-4e8a-812a-dd8b1aefe07c)
+  ![image](https://github.com/user-attachments/assets/eed7090f-17f6-4e8a-812a-dd8b1aefe07c)
 
   ### **_COMPARING TWO NUMBERS_**
 
   ![image](https://github.com/user-attachments/assets/9665dbe9-d2dd-4c9b-acf2-8968b46f196b)
 
+  ![image](https://github.com/user-attachments/assets/87c93ed5-7a6a-4d84-9d54-15139a4a2f3d)
 
   ### **_PRINT NO. FROM 1 TO 5_**
 
