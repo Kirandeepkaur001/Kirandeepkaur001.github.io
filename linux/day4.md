@@ -27,7 +27,7 @@ gzip -k filename
 
 # Wild Cards (Globbing)
 * Wildcards are special symbols that help you find or work with multiple files without typing every name.
-* Think of them like shortcuts when you're dealing with lots of files.
+* Think of them like shortcuts when we are dealing with lots of files.
 
 ### **_Most Common Wildcards_**
 
@@ -42,3 +42,28 @@ gzip -k filename
 ### 2. **_?.txt_**
 
 ### 3. **_[].txt_**
+
+# ASSIGNMENT
+---
+
+### Quoting and Escaping Characters
+
+When we type something in the Linux terminal, sometimes our text includes special characters like:
+* Space ( )
+* Dollar sign ($)
+* Asterisk (*)
+* Quotes (" or ')
+These have special meanings, so if we want the computer to treat them as normal characters, we need to use quoting or escaping.
+
+### **_Escaping_**
+Escaping means protecting a character so the terminal doesn't give it a special meaning. Use backslash (\) for escaping.
+
+### **_Quoting_**
+Quoting is putting your text inside quotes so special characters don’t get a special meaning.
+
+  ### **_1. Single Quotes ' '_**
+  * Treat everything inside as plain text.
+  * Nothing gets special meaning.
+
+  ### **_2. Double Quotes " "_**
+  * Treat most things as plain text, but variables and commands still work.
