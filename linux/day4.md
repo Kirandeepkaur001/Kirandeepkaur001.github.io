@@ -21,5 +21,5 @@ gzip filename
 
 If we want to **UNZIP** the file, use **gunzip**
 
-### **_If not delete the original file use -k_**
+### **_If not to delete the original file use -k_**
 gzip -k filename
