@@ -19,7 +19,6 @@ Used to compress files to make file smaller in size.
 ### **_Syntax in Linux_**
 gzip filename
 
-
 If we want to **UNZIP** the file, use **gunzip**
 
 ### **_If not to delete the original file use -k_**
@@ -42,6 +41,8 @@ gzip -k filename
 ### 2. **_?.txt_**
 
 ### 3. **_[ ].txt_**
+
+### 4. **_Match files that start with fixed letter_**
 
 # ASSIGNMENT
 ---
