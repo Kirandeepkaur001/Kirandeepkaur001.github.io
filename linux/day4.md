@@ -37,3 +37,8 @@ gzip -k filename
 | ?    | One character            | file?.txt     | file1.txt, fileA.txt, but not file10.txt          |
 | [ ]  | One character from a set | file[1-3].txt | file1.txt, file2.txt, file3.txt                   |
 
+### 1. **_*.txt_**
+
+### 2. **_?.txt_**
+
+### 3. **_[].txt_**
