@@ -3,7 +3,7 @@
   Two Operating Systems on One Computer. You can choose which system to use when your computer starts.
   
   # Bare Metal Installation
-  Installing an OS directly on a physical computer, not inside VMware. The OS can be installed using hard disk or pen drive.
+  Installing an OS directly on a physical computer, not inside VMware. The OS can be installed using pen drive.
   
   # Meta Installation
   Installing a package that installs many other related packages. It's like a "starter kit" — you install one thing, and it brings a bunch of things with it.
@@ -23,10 +23,10 @@
       Another for Linux
       Another for Data
 
-  ### **_MBT(Master Boot Record)_**
+  ### **_MBR(Master Boot Record)_**
   The installer automatically creates partitions. We don’t have to manually set the root, swap, home, etc. It is suitable for old systems.
   
-  ### **_GPT(Guided Partitioning Scheme)_**
+  ### **_GPT(Guided Partitioning Table)_**
   We have to manually set the partitions. It is suitable for new systems.
 
   # ISO File : A digital version of a CD/DVD
