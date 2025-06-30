@@ -41,7 +41,7 @@ gzip -k filename
 
 ### 2. **_?.txt_**
 
-### 3. **_[].txt_**
+### 3. **_[ ].txt_**
 
 # ASSIGNMENT
 ---
