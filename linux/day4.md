@@ -136,8 +136,6 @@ Quoting is putting your text inside quotes so special characters don’t get a s
   | **CMOS Battery**      | Maintains BIOS settings and system time.               |
   | **Boot Process**      | Power on → ROM → Bootstrap Loader → OS loads in RAM.   |
       
-      ---
-      
   ### **_5. Input/Output & Display_**
       
   | Component             | Definition                                             |
