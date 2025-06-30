@@ -250,7 +250,7 @@
   
   | Command                         | Meaning                                        |
   | ------------------------------- | ---------------------------------------------- |
-  | chown amandeep file.txt       | Make `kirandeep` the owner of `file.txt`        |
+  | chown kirandeep file.txt       | Make `kirandeep` the owner of `file.txt`        |
   | chown :staff file.txt        | Change only the **group** to `staff`           |
   | chown kirandeep:staff file.txt | Change both **owner** and **group**            |
   | sudo chown kirandeep file.txt  | Run with **root powers** (if you're not owner) |
