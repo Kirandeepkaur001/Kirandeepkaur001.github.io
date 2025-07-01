@@ -167,3 +167,13 @@ Quoting is putting your text inside quotes so special characters don’t get a s
   | **Beep Sound**        | POST error codes (e.g., via speaker/copper coil).      |
   | **Cooling System**    | Fans or heat sinks to prevent overheating.             |
   | **Configuration**     | System specs: RAM, CPU speed, storage, brand, etc.     |
+
+# Registers
+
+Registers are tiny, super-fast storage locations inside the CPU. They hold data and instructions that the CPU is currently working on. Registers are the fastest type of memory because they are directly part of the processor.
+
+* Very small storage inside the CPU
+* Store data the CPU needs immediately
+* Faster than cache and RAM
+* Used to perform calculations and operations quickly
+
