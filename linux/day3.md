@@ -16,7 +16,10 @@
       * Desktop environment
       * Login screen
       * Wallpaper
-  
+
+  # Full Disk
+  "Full disk" usually means that your computer's storage (hard disk or SSD) is completely used up, leaving no space for new files, updates, or programs.
+
   # Partitioning Scheme
   Dividing your hard disk into sections, so that each part can be used for a different purpose. Linux uses multiple partitions to keep the system organized, secure, and flexible.
       One partition for Windows
