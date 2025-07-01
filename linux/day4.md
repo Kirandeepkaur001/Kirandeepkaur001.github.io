@@ -69,7 +69,7 @@ When we type something in the Linux terminal, sometimes our text includes specia
 These have special meanings, so if we want the computer to treat them as normal characters, we need to use quoting or escaping.
 
 ### **_Escaping_**
-Escaping means protecting a character so the terminal doesn't give it a special meaning. Use backslash (\) for escaping.
+Escaping means protecting a character so the terminal doesn't give it a special meaning. Use backslash ( \ ) for escaping.
 
 ![image](https://github.com/user-attachments/assets/c9e85f33-d73d-45c9-ad03-594b74bb7fda)
 
