@@ -18,11 +18,11 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
 
   ### **_Types of GPU_**
 
-  * ### **_Integrated GPU_**
+  ### **_1. Integrated GPU_**
   * Already inside the computer (e.g., laptops).
   * Not very powerful.
 
-  * ### **_Dedicated GPU_**
+  ### **_2. Dedicated GPU_**
   * A separate part you add to the computer.
   * Very powerful (used for gaming and video editing).
       
