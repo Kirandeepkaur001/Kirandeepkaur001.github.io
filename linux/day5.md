@@ -253,9 +253,6 @@ System crash analysis is the process of investigating why a computer suddenly st
   * Repairing corrupted system files.
   * Replacing faulty hardware.
 
-# System Crash Analysis
-System Crash Analysis is the process of diagnosing why a Windows system crashes, such as during a Blue Screen of Death (BSOD), to identify and fix the root cause.
-
 # Key Concepts
   ### **_Dump Files_**
   When Windows crashes, it creates dump files—snapshots of system memory at the crash moment. These files contain critical information to analyze the error and are usually saved on the C: drive in locations like:
