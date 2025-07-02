@@ -15,7 +15,7 @@
 
 ### 2. Recovery Tools
 
-  ### **_What is it?_***
+  ### **_What is it?_**
   These are tools in your computer that help you fix your system when something goes wrong.
 
   ### **_What can they do?_**
