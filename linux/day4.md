@@ -180,5 +180,6 @@ Registers are tiny, super-fast storage locations inside the CPU. They hold data 
 # Motherboard
 The motherboard is the main printed circuit board (PCB) in a computer or electronic device. It serves as the central backbone that connects and allows communication between all hardware components such as the CPU, memory (RAM), storage devices, power supply, and peripherals.
 
-![image](https://github.com/user-attachments/assets/c8313afb-e210-4311-bee5-3c95cee372bb)
+![WhatsApp Image 2025-06-30 at 11 38 07_11aba076](https://github.com/user-attachments/assets/062e352b-2162-4838-9b3b-050119121700)
+
 
