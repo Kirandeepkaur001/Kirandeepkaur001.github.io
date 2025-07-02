@@ -10,7 +10,7 @@
   * It skips extra apps and settings so you can fix problems easily.
 
 
-  ### **Example:_**
+  ### **_Example :_**
   If your computer is crashing or showing a black screen, try turning it on in Safe Mode to check what’s wrong.
 
 ### 2. Recovery Tools
