@@ -10,13 +10,13 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
 * Speeds up drawing images, videos, and animations
 * Also used for AI, machine learning, and scientific calculations
 
-  ### **_Why do we need a GPU?_**
+  ### Why do we need a GPU?
   * To play games without lag.
   * To watch high-quality videos.
   * To create animations or edit videos.
   * To help in working with Artificial Intelligence (AI) and big data.
 
-  ### **_Types of GPU_**
+  ### Types of GPU
 
   ### **_1. Integrated GPU_**
   * Already inside the computer (e.g., laptops).
@@ -26,7 +26,7 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
   * A separate part you add to the computer.
   * Very powerful (used for gaming and video editing).
       
-  ### **_Common Symptoms of GPU Issues_**
+  ### Common Symptoms of GPU Issues
 
   ### **_No Display on Screen_**
   The computer is on, but the screen is black.
@@ -71,20 +71,20 @@ Just like:
 * D: drive → Movies, songs, documents
 * E: drive → Backups or another OS
 
-  ### **_Types of Partitions_**
+  ### Types of Partitions
   
-      ### **_Primary Partition_**
-      * You can install an operating system here.
-      * Max 4 primary partitions (in MBR type).
+  ### **_Primary Partition_**
+  * You can install an operating system here.
+  * Max 4 primary partitions (in MBR type).
 
-      ### **_Extended Partition_**
-      * Used to create more partitions inside it (logical partitions).
+  ### **_Extended Partition_**
+  * Used to create more partitions inside it (logical partitions).
       
-      ### **_Logical Partition_**
-      * Made inside an extended partition.
-      * Used for storing data.
+  ### **_Logical Partition_**
+  * Made inside an extended partition.
+  * Used for storing data.
 
-  ### **_ Why Partition?_**
+  ### Why Partition?
   * To organize your files better.
   * To keep system and data separate.
   * To install multiple operating systems.
@@ -144,10 +144,10 @@ System Scanning means checking your computer for problems, like:
 * Corrupted files
 * Missing system files
 
-  ### **_Why do we do it?_**
+  ### Why do we do it?
   To keep your PC safe, clean, and fast.
 
-  ### **_How to do a system scan?_**
+  ### How to do a system scan?
   * Open Windows Security or Antivirus Software.
   * Click on Scan Now.
   * It checks the system and tells if any virus or issue is found.
