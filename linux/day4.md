@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2be11ccd-ccbf-4098-afd2-e9d17f3fdef7)# DAY 4 :
+# DAY 4 :
 
 # File Compression
 It means to compress a file and making file smaller so it takes up less space on your computer.
