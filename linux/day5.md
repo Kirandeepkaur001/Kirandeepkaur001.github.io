@@ -2,7 +2,7 @@
 
 # PC & Network Troubleshooting
 
-### GPU
+# GPU
 GPU stands for Graphics Processing Unit. A GPU is a part of the computer that helps to show pictures, videos, and games on the screen smoothly. It’s a special processor designed to handle graphics and images, like in video games, videos, and 3D rendering.
 
 * Works alongside the CPU
@@ -58,7 +58,7 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
   ### **_10. Computer Shuts Down_**
   Your system turns off suddenly, especially while gaming or using graphics-heavy apps.
 
-### Partitioning of Hard Disk
+# Partitioning of Hard Disk
 A partition is like dividing your hard disk into separate sections (like making rooms in a house).
 
 You can store different things in each section, like:
@@ -90,7 +90,7 @@ Just like:
   * To install multiple operating systems.
   * To make backup and formatting easier.
 
-### Causes of a Slow PC (Why computer becomes slow) :
+# Causes of a Slow PC (Why computer becomes slow) :
 
   ### **_1. Too Many Programs Running_**
   Many apps open at the same time use more memory (RAM).
@@ -122,7 +122,7 @@ Just like:
   ### **_10. Background Updates or Scans_**
   Antivirus or Windows updates running silently.
 
-### Fixes for a Slow PC (How to make it faster) :
+# Fixes for a Slow PC (How to make it faster) :
 
 | Problem               | Simple Fix                                                      |
 | --------------------- | --------------------------------------------------------------- |
@@ -137,7 +137,7 @@ Just like:
 | Heating               | Clean fan, ensure good airflow                                  |
 | Background tasks      | Turn off background apps (Settings → Privacy → Background Apps) |
 
-### System Scanning 
+# System Scanning 
 System Scanning means checking your computer for problems, like:
 * Viruses
 * Malware (bad programs)
@@ -153,12 +153,12 @@ System Scanning means checking your computer for problems, like:
   * It checks the system and tells if any virus or issue is found.
   * You can then remove or fix the problem.
 
-### Defragmentation
+# Defragmentation
 * Your hard disk stores files in small pieces. Over time, the pieces get scattered. This is called fragmentation.
 
 * Defragmentation means putting all the scattered file pieces back together, so your computer can find them faster.
 
-### Optimization
+# Optimization
 
 * Optimization means making your computer or software work faster and more efficiently. It involves cleaning up unnecessary files, fixing errors, managing startup programs, and adjusting settings so everything runs smoothly.
 
@@ -172,7 +172,7 @@ System Scanning means checking your computer for problems, like:
   Delivery Optimization is a Windows feature that helps manage and speed up downloading Windows updates and Microsoft Store apps by using peer-to-peer (P2P) sharing across your local network or the internet.
 
   
-### Why Install an Antivirus Scanner?
+# Why Install an Antivirus Scanner?
 An antivirus is like a bodyguard for your computer.
 It protects your computer from:
 * Viruses (harmful programs)
@@ -192,7 +192,8 @@ It protects your computer from:
   ### **_Safeguards Against New Threats :_** 
   Regular updates help protect you from the latest viruses and cyberattacks.
 
-### Printer Problems and Solutions
+# Printer Problems and Solutions
+
 | No. | Problem                    | Reason                           | Easy Solution               |
 | ------ | ------------------ | ----------------------------------- | ----------------------------- |
 | 1      | **Printer says "No Paper"**   | No paper in tray                    | Put fresh paper into the paper tray                  |
@@ -223,7 +224,7 @@ It protects your computer from:
   **_Stability Improvements :_** Reduce crashes and unexpected errors.
   **_Compliance :_** Keeps software up to date with industry standards and regulations.
 
-### Blue Screen of Death (BSOD)
+# Blue Screen of Death (BSOD)
 The Blue Screen of Death (also called STOP error) is when your computer suddenly stops working and shows a blue screen with a sad face and some error message.
 
   ### **_Why BSOD happens_**
@@ -235,7 +236,7 @@ The Blue Screen of Death (also called STOP error) is when your computer suddenly
   * Conflicts between software and hardware
   When BSOD occurs, Windows shows an error code to help identify the problem.
 
-### System crash analysis
+# System crash analysis
 System crash analysis is the process of investigating why a computer suddenly stops working or restarts unexpectedly. The goal is to find the cause and fix it to prevent future crashes.
 
   ### **_How it’s done?_**
@@ -252,10 +253,10 @@ System crash analysis is the process of investigating why a computer suddenly st
   * Repairing corrupted system files.
   * Replacing faulty hardware.
 
-### System Crash Analysis
+# System Crash Analysis
 System Crash Analysis is the process of diagnosing why a Windows system crashes, such as during a Blue Screen of Death (BSOD), to identify and fix the root cause.
 
-### Key Concepts
+# Key Concepts
   ### **_Dump Files_**
   When Windows crashes, it creates dump files—snapshots of system memory at the crash moment. These files contain critical information to analyze the error and are usually saved on the C: drive in locations like:
 
