@@ -52,10 +52,10 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
   ### **_8. Blue Screen (BSOD)_**
   Your computer suddenly shows a blue screen and restarts.
 
-  ### **_Noisy Fan_**
+  ### **_9. Noisy Fan_**
   The GPU fan makes loud or strange noises.
 
-  ### **_9. Computer Shuts Down_**
+  ### **_10. Computer Shuts Down_**
   Your system turns off suddenly, especially while gaming or using graphics-heavy apps.
 
 ### Partitioning of Hard Disk
