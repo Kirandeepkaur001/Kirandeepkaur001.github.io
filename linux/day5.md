@@ -28,34 +28,34 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
       
   ### Common Symptoms of GPU Issues :
 
-  ### **_No Display on Screen_**
+  ### **_1. No Display on Screen_**
   The computer is on, but the screen is black.
 
-  ### **_Weird Colors or Lines_**
+  ### **_2. Weird Colors or Lines_**
   You see strange lines, colors, or patterns on the screen.
 
-  ### **_Screen Flickering_**  
+  ### **_3. Screen Flickering_**  
   The screen keeps blinking or shaking.
 
-  ### **_Game Crashes or Freezes_**
+  ### **_4. Game Crashes or Freezes_**
   When you play games, they suddenly close or get stuck.
 
-  ### **_Overheating_**
+  ### **_5. Overheating_**
   The GPU gets very hot. The computer fan runs loudly.
 
-  ### **_Low FPS in Games_**
+  ### **_6. Low FPS in Games_**
   Games run slowly or look choppy (not smooth).
 
-  ### **_Error Messages_**
+  ### **_7. Error Messages_**
   You may see errors like “Display driver stopped responding.”
 
-  ### **_Blue Screen (BSOD)_**
+  ### **_8. Blue Screen (BSOD)_**
   Your computer suddenly shows a blue screen and restarts.
 
   ### **_Noisy Fan_**
   The GPU fan makes loud or strange noises.
 
-  ### **_Computer Shuts Down_**
+  ### **_9. Computer Shuts Down_**
   Your system turns off suddenly, especially while gaming or using graphics-heavy apps.
 
 ### Partitioning of Hard Disk
