@@ -10,7 +10,7 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
 * Speeds up drawing images, videos, and animations
 * Also used for AI, machine learning, and scientific calculations
 
-  ### ** Why do we need a GPU?_**
+  ### **_Why do we need a GPU?_**
   * To play games without lag.
   * To watch high-quality videos.
   * To create animations or edit videos.
