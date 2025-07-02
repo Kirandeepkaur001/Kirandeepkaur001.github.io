@@ -2,7 +2,7 @@
 
 ### 1. Safe Mode
 
-  ### **_What is it?_**
+    ### **_What is it?_**
   Safe Mode is a special way to turn on your computer when it’s having problems.
 
   ### **_Why use it?_**
