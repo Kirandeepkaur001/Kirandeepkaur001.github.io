@@ -16,7 +16,7 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
   * To create animations or edit videos.
   * To help in working with Artificial Intelligence (AI) and big data.
 
-  ### Types of GPU
+  ### Types of GPU :
 
   ### **_1. Integrated GPU_**
   * Already inside the computer (e.g., laptops).
@@ -26,7 +26,7 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
   * A separate part you add to the computer.
   * Very powerful (used for gaming and video editing).
       
-  ### Common Symptoms of GPU Issues
+  ### Common Symptoms of GPU Issues :
 
   ### **_No Display on Screen_**
   The computer is on, but the screen is black.
@@ -71,7 +71,7 @@ Just like:
 * D: drive → Movies, songs, documents
 * E: drive → Backups or another OS
 
-  ### Types of Partitions
+  ### Types of Partitions :
   
   ### **_Primary Partition_**
   * You can install an operating system here.
@@ -90,7 +90,7 @@ Just like:
   * To install multiple operating systems.
   * To make backup and formatting easier.
 
-### Causes of a Slow PC (Why computer becomes slow)
+### Causes of a Slow PC (Why computer becomes slow) :
 
   ### **_Too Many Programs Running_**
   Many apps open at the same time use more memory (RAM).
@@ -122,7 +122,7 @@ Just like:
   ### **_Background Updates or Scans_**
   Antivirus or Windows updates running silently.
 
-### Fixes for a Slow PC (How to make it faster)
+### Fixes for a Slow PC (How to make it faster) :
 
 | Problem               | Simple Fix                                                      |
 | --------------------- | --------------------------------------------------------------- |
@@ -137,7 +137,7 @@ Just like:
 | Heating               | Clean fan, ensure good airflow                                  |
 | Background tasks      | Turn off background apps (Settings → Privacy → Background Apps) |
 
-### System Scanning
+### System Scanning 
 System Scanning means checking your computer for problems, like:
 * Viruses
 * Malware (bad programs)
