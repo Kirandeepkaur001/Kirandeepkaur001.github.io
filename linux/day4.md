@@ -1,4 +1,4 @@
-# DAY 4 :
+![image](https://github.com/user-attachments/assets/2be11ccd-ccbf-4098-afd2-e9d17f3fdef7)# DAY 4 :
 
 # File Compression
 It means to compress a file and making file smaller so it takes up less space on your computer.
@@ -176,4 +176,9 @@ Registers are tiny, super-fast storage locations inside the CPU. They hold data 
 * Store data the CPU needs immediately
 * Faster than cache and RAM
 * Used to perform calculations and operations quickly
+
+# Motherboard
+The motherboard is the main printed circuit board (PCB) in a computer or electronic device. It serves as the central backbone that connects and allows communication between all hardware components such as the CPU, memory (RAM), storage devices, power supply, and peripherals.
+
+![image](https://github.com/user-attachments/assets/c8313afb-e210-4311-bee5-3c95cee372bb)
 
