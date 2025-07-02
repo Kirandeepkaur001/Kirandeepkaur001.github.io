@@ -28,35 +28,35 @@ GPU stands for Graphics Processing Unit. A GPU is a part of the computer that he
       
   ### **_Common Symptoms of GPU Issues_**
 
-      ### **_No Display on Screen_**
-      The computer is on, but the screen is black.
+  ### **_No Display on Screen_**
+  The computer is on, but the screen is black.
 
-      ### **_Weird Colors or Lines_**
-      You see strange lines, colors, or patterns on the screen.
+  ### **_Weird Colors or Lines_**
+  You see strange lines, colors, or patterns on the screen.
 
-      ### **_Screen Flickering_**  
-      The screen keeps blinking or shaking.
+  ### **_Screen Flickering_**  
+  The screen keeps blinking or shaking.
 
-      ### **_Game Crashes or Freezes_**
-      When you play games, they suddenly close or get stuck.
+  ### **_Game Crashes or Freezes_**
+  When you play games, they suddenly close or get stuck.
 
-      ### **_Overheating_**
-      The GPU gets very hot. The computer fan runs loudly.
+  ### **_Overheating_**
+  The GPU gets very hot. The computer fan runs loudly.
 
-      ### **_Low FPS in Games_**
-      Games run slowly or look choppy (not smooth).
+  ### **_Low FPS in Games_**
+  Games run slowly or look choppy (not smooth).
 
-      ### **_Error Messages_**
-      You may see errors like “Display driver stopped responding.”
+  ### **_Error Messages_**
+  You may see errors like “Display driver stopped responding.”
 
-      ### **_Blue Screen (BSOD)_**
-      Your computer suddenly shows a blue screen and restarts.
+  ### **_Blue Screen (BSOD)_**
+  Your computer suddenly shows a blue screen and restarts.
 
-      ### **_Noisy Fan_**
-      The GPU fan makes loud or strange noises.
+  ### **_Noisy Fan_**
+  The GPU fan makes loud or strange noises.
 
-      ### **_Computer Shuts Down_**
-      Your system turns off suddenly, especially while gaming or using graphics-heavy apps.
+  ### **_Computer Shuts Down_**
+  Your system turns off suddenly, especially while gaming or using graphics-heavy apps.
 
 ### Partitioning of Hard Disk
 A partition is like dividing your hard disk into separate sections (like making rooms in a house).
