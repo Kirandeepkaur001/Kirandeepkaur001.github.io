@@ -180,10 +180,17 @@ It protects your computer from:
 * Hackers trying to steal your data
 * Dangerous files from pen drives, emails, or the internet
 
-**_Protects Your Computer :_** Detects and removes viruses, malware, spyware, and other harmful software that can damage your files or system.
-**_Prevents Data Theft :_** Stops hackers and malicious software from stealing your personal information like passwords, bank details, and documents.
-**_Keeps System Running Smoothly :_** Removes unwanted programs that slow down your computer or cause crashes.
-**_Safeguards Against New Threats :_** Regular updates help protect you from the latest viruses and cyberattacks.
+  ### **_Protects Your Computer :_** 
+  Detects and removes viruses, malware, spyware, and other harmful software that can damage your files or system.
+
+  ### **_Prevents Data Theft :_** 
+  Stops hackers and malicious software from stealing your personal information like passwords, bank details, and documents.
+
+  ### **_Keeps System Running Smoothly :_** 
+  Removes unwanted programs that slow down your computer or cause crashes.
+
+  ### **_Safeguards Against New Threats :_** 
+  Regular updates help protect you from the latest viruses and cyberattacks.
 
 ### Printer Problems and Solutions
 | No. | Problem                    | Reason                           | Easy Solution               |
