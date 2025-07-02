@@ -73,14 +73,14 @@ Just like:
 
   ### Types of Partitions :
   
-  ### **_Primary Partition_**
+  ### **_1. Primary Partition_**
   * You can install an operating system here.
   * Max 4 primary partitions (in MBR type).
 
-  ### **_Extended Partition_**
+  ### **_2. Extended Partition_**
   * Used to create more partitions inside it (logical partitions).
       
-  ### **_Logical Partition_**
+  ### **_3. Logical Partition_**
   * Made inside an extended partition.
   * Used for storing data.
 
@@ -92,34 +92,34 @@ Just like:
 
 ### Causes of a Slow PC (Why computer becomes slow) :
 
-  ### **_Too Many Programs Running_**
+  ### **_1. Too Many Programs Running_**
   Many apps open at the same time use more memory (RAM).
 
-  ### **_Low RAM_**
+  ### **_2. Low RAM_**
   Not enough memory to handle your tasks.
 
-  ### **_Too Many Startup Apps_**
+  ### **_3. Too Many Startup Apps_**
   Apps that open automatically when PC starts slow it down.
 
-  ### **_Old Hard Disk (HDD)_**
+  ### **_4. Old Hard Disk (HDD)_**
   Traditional hard drives are slower than SSDs.
 
-  ### **_Too Many Browser Tabs_**
+  ### **_5. Too Many Browser Tabs_**
   Chrome or other browsers use a lot of RAM.
 
-  ### **_Viruses or Malware_**
+  ### **_6. Viruses or Malware_**
   Harmful software makes the system slow or behaves oddly.
 
-  ### **_Full Hard Disk_**
+  ### **_7. Full Hard Disk_**
   If C: drive is almost full, Windows slows down.
 
-  ### **_Outdated Software or Drivers_**
+  ### **_8. Outdated Software or Drivers_**
   Old versions can cause poor performance.
 
-  ### **_Overheating_**
+  ### **_9. Overheating_**
   PC gets hot and reduces speed to protect itself.
 
-  ### **_Background Updates or Scans_**
+  ### **_10. Background Updates or Scans_**
   Antivirus or Windows updates running silently.
 
 ### Fixes for a Slow PC (How to make it faster) :
