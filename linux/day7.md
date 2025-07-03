@@ -16,9 +16,9 @@ A host is any device (like a computer, laptop, mobile, server, etc.) that is con
   * The Internet.
 
   ### **_What can a Host do?_**
-  **_Send data_** – like sending an email or uploading a photo.
-  **_Receive data_** – like watching a video or opening a website.
-  **_Store and share_** – like sharing a file or hosting a website.
+  * **_Send data_** – like sending an email or uploading a photo.
+  * **_Receive data_** – like watching a video or opening a website.
+  * **_Store and share_** – like sharing a file or hosting a website.
 
   ### **_Why is it called a “Host”?_**
   Just like a host in a party gives you food and space, a network host provides or receives information and services.
@@ -129,9 +129,8 @@ These classes help decide:
 
 * **_In IP Address Classes (A, B, C)_**
 Each class divides the 32-bit IPv4 address into two parts:
-
-**_Prefix = Network part_**
-**_Suffix = Host part_**
+* **_Prefix = Network part_**
+* **_Suffix = Host part_**
 
 Example:
 IP: 10.0.0.1
@@ -143,8 +142,8 @@ Suffix: 0.0.1
   Used by: Very large companies or government
 
   Example:
-  * Imagine you’re running a big company like Google or Amazon with millions of devices.
-  * You need a lot of IP addresses in one network.
+  Imagine you’re running a big company like Google or Amazon with millions of devices.
+  You need a lot of IP addresses in one network.
 
     First number of IP is from 1 to 126
     Looks like: 10.0.0.1, 25.45.67.89
@@ -158,29 +157,29 @@ Suffix: 0.0.1
   Used by: Universities, medium-size companies
 
   Example:
-  * Imagine your university or office has thousands of computers.
-
-    First number: 128 to 191
-    Looks like: 172.16.0.1, 150.25.10.5
-    You get:
-    Around 16,000 networks
-    Each network can have 65,000 devices
-    Subnet Mask: 255.255.0.0
-    Think: B = Big, but not the biggest
+  Imagine your university or office has thousands of computers.
+  
+      First number: 128 to 191
+      Looks like: 172.16.0.1, 150.25.10.5
+      You get:
+      Around 16,000 networks
+      Each network can have 65,000 devices
+      Subnet Mask: 255.255.0.0
+      Think: B = Big, but not the biggest
 
   ### **_Class C – For Small Networks_**
   Used by: Small businesses, home networks
 
   Example:
-  * You have a small office with fewer than 250 computers.
+  You have a small office with fewer than 250 computers.
 
-    First number: 192 to 223
-    Looks like: 192.168.0.1, 203.0.113.5
-    You get:
-    2 million networks
-    Each network can have 254 devices only
-    Subnet Mask: 255.255.255.0
-    Think: C = Compact / Cottage office
+      First number: 192 to 223
+      Looks like: 192.168.0.1, 203.0.113.5
+      You get:
+      2 million networks
+      Each network can have 254 devices only
+      Subnet Mask: 255.255.255.0
+      Think: C = Compact / Cottage office
 
   ### **_Class D – For Multicasting_**
   Used by: Live video streaming, group messaging
@@ -188,18 +187,18 @@ Suffix: 0.0.1
   What is Multicasting?
   Sending data to many devices at once (like live video to thousands of users)
 
-    First number: 224 to 239
-    Example: 224.0.0.1
-    Not used for normal devices like laptops
-    Think: D = Drama / Distribution (for many people)
+      First number: 224 to 239
+      Example: 224.0.0.1
+      Not used for normal devices like laptops
+      Think: D = Drama / Distribution (for many people)
 
   ### **_Class E – For Experiments_**
   Used by: Research, testing, future use
     
-    First number: 240 to 255
-    Example: 250.0.0.1
-    Not used for normal internet
-    Think: E = Experiment
+      First number: 240 to 255
+      Example: 250.0.0.1
+      Not used for normal internet
+      Think: E = Experiment
 
   #  **_Full Table to Remember Easily:_**
 
