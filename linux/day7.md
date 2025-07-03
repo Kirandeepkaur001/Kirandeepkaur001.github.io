@@ -35,7 +35,7 @@ A host is any device (like a computer, laptop, mobile, server, etc.) that is con
 ### Protocol
 A protocol is like a set of rules that computers follow to communicate with each other.
 
-  ### **_ Example:_**
+  ### **_Example:_**
   * Think of a protocol like a language.
   * If two people speak the same language (like English), they can talk and understand each other.
   * Similarly, two computers use the same protocol to send and receive data properly.
@@ -113,6 +113,9 @@ It helps devices find each other and communicate.
   | **IPv4** | Internet Protocol version 4 | 192.168.0.1                    |
   | **IPv6** | Internet Protocol version 6 | 2001:0db8:85a3::8a2e:0370:7334 |
 
+### Classful Addressing
+Classful Addressing is an old method of dividing the IPv4 address space into fixed-size blocks called classes 
+
 ### Classes of IP Address 
 When the internet was first created, people needed a way to give unique IP addresses to all devices, whether:
 * A huge company with millions of computers
@@ -131,41 +134,131 @@ These classes help decide:
   * Imagine you’re running a big company like Google or Amazon with millions of devices.
   * You need a lot of IP addresses in one network.
 
-  First number of IP is from 1 to 126
-  Looks like: 10.0.0.1, 25.45.67.89
+    First number of IP is from 1 to 126
+    Looks like: 10.0.0.1, 25.45.67.89
+    You get:
+    1 network
+    And 16 million host IPs inside it!
+    Subnet Mask: 255.0.0.0 (only first part is network, rest is for devices)
+    Think: A = All Big companies
 
-  You get:
+  ### **_Class B – For Medium Networks_**
+  Used by: Universities, medium-size companies
 
-  1 network
+  Example:
+  * Imagine your university or office has thousands of computers.
 
-  And 16 million host IPs inside it!
+    First number: 128 to 191
+    Looks like: 172.16.0.1, 150.25.10.5
+    You get:
+    Around 16,000 networks
+    Each network can have 65,000 devices
+    Subnet Mask: 255.255.0.0
+    Think: B = Big, but not the biggest
 
-  Subnet Mask: 255.0.0.0 (only first part is network, rest is for devices)
+  ### **_Class C – For Small Networks_**
+  Used by: Small businesses, home networks
 
-  Think: A = All Big companies
+  Example:
+  * You have a small office with fewer than 250 computers.
 
-🅱️ Class B – For Medium Networks
-🏫 Used by: Universities, medium-size companies
+    First number: 192 to 223
+    Looks like: 192.168.0.1, 203.0.113.5
+    You get:
+    2 million networks
+    Each network can have 254 devices only
+    Subnet Mask: 255.255.255.0
+    Think: C = Compact / Cottage office
 
-📦 Example:
-Imagine your university or office has thousands of computers.
+  ### **_Class D – For Multicasting_**
+  Used by: Live video streaming, group messaging
 
-First number: 128 to 191
+  What is Multicasting?
+  Sending data to many devices at once (like live video to thousands of users)
 
-Looks like: 172.16.0.1, 150.25.10.5
+    First number: 224 to 239
+    Example: 224.0.0.1
+    Not used for normal devices like laptops
+    Think: D = Drama / Distribution (for many people)
 
-You get:
+  ### **_Class E – For Experiments_**
+  Used by: Research, testing, future use
+    
+    First number: 240 to 255
+    Example: 250.0.0.1
+    Not used for normal internet
+    Think: E = Experiment
 
-Around 16,000 networks
+  ###  Full Table to Remember Easily:
 
-Each network can have 65,000 devices
+  | Class | Range (First Number) | No. of Devices | Used By               | Example IP  |
+  | ----- | -------------------- | -------------- | --------------------- | ----------- |
+  | A     | 1 – 126              | \~16 million   | Large companies       | 10.0.0.1    |
+  | B     | 128 – 191            | \~65,000       | Universities, offices | 172.16.5.4  |
+  | C     | 192 – 223            | 254            | Homes, small offices  | 192.168.1.1 |
+  | D     | 224 – 239            | Multicast only | Streaming, messages   | 224.0.0.5   |
+  | E     | 240 – 255            | Not used       | Research only         | 250.1.1.1   |
 
-Subnet Mask: 255.255.0.0
+  ### Simple Analogy:
 
-🧠 Think: B = Big, but not the biggest
+  | Type of House  | IP Class | Size of Network           |
+  | -------------- | -------- | ------------------------- |
+  | Huge mansion   | Class A  | Millions of devices       |
+  | Big bungalow   | Class B  | Thousands of devices      |
+  | Small home     | Class C  | A few hundred devices     |
+  | Cinema theatre | Class D  | One sends to many viewers |
+  | Lab/test house | Class E  | Reserved for research     |
 
+### What is IPv4 and IPv6?
+They are two versions of the Internet Protocol – rules that give every device a unique IP address to identify it on the network.
 
+| Name     | Stands for                  |
+| -------- | --------------------------- |
+| **IPv4** | Internet Protocol version 4 |
+| **IPv6** | Internet Protocol version 6 |
 
+  ### **_Why do we need two versions?_**
+  * At first, we used IPv4, which gives about 4.3 billion addresses.
+  * But now, we have more people + more devices (phones, TVs, fridges, smartwatches...)
+  * IPv4 is running out!
+  * So we created IPv6 to solve this.
 
+  ### **_Difference Between IPv4 and IPv6_**
 
+  | Feature                   | IPv4                          | IPv6                                      |
+  | ------------------------- | ----------------------------- | ----------------------------------------- |
+  | 📏 **Address Size**       | 32 bits (4 numbers)           | 128 bits (8 groups of 4 hex digits)       |
+  | 🔢 **Example Address**    | `192.168.1.1`                 | `2001:0db8:85a3:0000:0000:8a2e:0370:7334` |
+  | 💡 **Total addresses**    | \~4.3 billion                 | \~340 **undecillion** (almost unlimited)  |
+  | ✍️ **Written in**         | Decimal (with dots)           | Hexadecimal (with colons)                 |
+  | 🚀 **Speed**              | Slower in large networks      | Faster in large-scale routing             |
+  | 🔐 **Security**           | Not built-in                  | Security (IPSec) is built-in              |
+  | 🌐 **NAT (used?)**        | Yes, often needed             | Not needed                                |
+  | 📦 **Packet size config** | Manual                        | Auto-configured                           |
+  | 💬 **Communication**      | Broadcast, unicast, multicast | Unicast, multicast, **anycast**           |
+  | 📅 **Introduced**         | 1981                          | 1998                                      |
+  | 🧠 **Human-readable?**    | Easy                          | Harder (long address)                     |
+
+### Notation
+Notation means how numbers are written in different number systems.
+
+  ### **_1. Decimal Notation (What humans use)_**
+  Also called Base 10
+  Uses 10 digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+  Every place is a power of 10
+
+    Example:
+    The number 345 in decimal means:
+    = (3 × 100) + (4 × 10) + (5 × 1)
+    = (3 × 10²) + (4 × 10¹) + (5 × 10⁰)
+    
+  ### **_2. Binary Notation (What computers use)_**
+  Also called Base 2
+  Uses only 2 digits: 0 and 1
+  Every place is a power of 2
+
+    Example:
+    The number 1010 in binary means:
+    = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1)
+    = (1 × 2³) + (0 × 2²) + (1 × 2¹) + (0 × 2⁰)
 
