@@ -391,6 +391,8 @@ A default gateway is the device (usually a router) that your computer uses to co
 ### **_1. Twisted Pair Cable_**
 Looks like: Two or more wires twisted together
 
+![image](https://github.com/user-attachments/assets/411cafca-41cc-4e7b-9991-87904e444571)
+
   ### **_Types:_**
   * UTP (Unshielded Twisted Pair) – used in LAN
   * STP (Shielded Twisted Pair) – used where protection from noise is needed
@@ -410,6 +412,8 @@ Looks like: Two or more wires twisted together
 ### **_2. Coaxial Cable_**
 Looks like: A single copper wire in the center, surrounded by insulation, metal shield, and outer cover (like a TV cable)
 
+![image](https://github.com/user-attachments/assets/5645a684-253c-4a3c-90fc-d9db79d47dc5)
+
   ### **_Common Use:_**
   * Cable TV
   * Internet through cable modems
@@ -423,8 +427,12 @@ Looks like: A single copper wire in the center, surrounded by insulation, metal 
   * Better protection from interference
   * Thicker and harder to bend than twisted pair
 
-### **_3. Fiber Optic Cable_**
+### **_3. Optical Fibre Cable_**
 Looks like: Thin glass or plastic strands inside a protective cover — uses light, not electricity
+
+![image](https://github.com/user-attachments/assets/c048ccc8-d6c8-4dfe-919f-20580ace3e5b)
+
+![image](https://github.com/user-attachments/assets/a1c0205e-0d9c-477b-b083-d08a2b389abb)
 
   ### **_Common Use:_**
   * High-speed internet (FTTH - Fiber To The Home)
