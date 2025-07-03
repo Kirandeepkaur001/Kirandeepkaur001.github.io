@@ -9,7 +9,7 @@ A host is any device (like a computer, laptop, mobile, server, etc.) that is con
   * A website server (like Google or Facebook).
   * A printer connected to your home etwork.
 
-  ### **_ Where do Hosts work?_**
+  ### **_Where do Hosts work?_**
   Hosts work in networks, like:
   * Your home Wi-Fi.
   * An office network.
