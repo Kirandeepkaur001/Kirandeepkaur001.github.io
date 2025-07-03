@@ -1,6 +1,6 @@
 # Day 7 :
 
-### Host
+# Host
 A host is any device (like a computer, laptop, mobile, server, etc.) that is connected to a network and can send or receive data.
 
   ### **_Examples of a Host:_**
@@ -32,7 +32,7 @@ A host is any device (like a computer, laptop, mobile, server, etc.) that is con
   | **Server**     | A special host that gives services (like a website).   |
   | **Client**     | A host that uses the services (like your phone).       |
 
-### Protocol
+# Protocol
 A protocol is like a set of rules that computers follow to communicate with each other.
 
   ### **_Example:_**
@@ -66,7 +66,7 @@ A protocol is like a set of rules that computers follow to communicate with each
   | **FTP**   | File Transfer Protocol        | Sending files between computers              |
   | **SMTP**  | Simple Mail Transfer Protocol | Sending emails                               |
 
-### IP Address
+# IP Address
 An IP address (Internet Protocol address) is like a home address for a device on a network or the internet.
 It helps devices find each other and communicate.
 
@@ -82,7 +82,7 @@ It helps devices find each other and communicate.
   * Your phone wouldn’t know how to connect to websites.
   * A message wouldn’t know which computer to reach.
 
-  ### **_Types of IP Addresses:_**
+  # **_Types of IP Addresses:_**
 
   ### **_1. Based on Use_**
 
@@ -113,10 +113,10 @@ It helps devices find each other and communicate.
   | **IPv4** | Internet Protocol version 4 | 192.168.0.1                    |
   | **IPv6** | Internet Protocol version 6 | 2001:0db8:85a3::8a2e:0370:7334 |
 
-### Classful Addressing
-Classful Addressing is an old method of dividing the IPv4 address space into fixed-size blocks called classes 
+# Classful Addressing
+Classful Addressing is an old method of dividing the IPv4 address space into fixed-size blocks called classes.
 
-### Classes of IP Address 
+# Classes of IP Address 
 When the internet was first created, people needed a way to give unique IP addresses to all devices, whether:
 * A huge company with millions of computers
 * A small business with just 10 computers
@@ -126,6 +126,18 @@ To make IP addresses easy to manage, they are divided into 5 classes: Class A, B
 These classes help decide:
 * How many devices can be in a network
 * Whether the IP is used for normal devices, multicasting, or experiments
+
+* **_In IP Address Classes (A, B, C)_**
+Each class divides the 32-bit IPv4 address into two parts:
+
+**_Prefix = Network part_**
+**_Suffix = Host part_**
+
+Example:
+IP: 10.0.0.1
+Prefix: 10
+Suffix: 0.0.1
+---
 
   ### **_Class A – For Very Big Networks_**
   Used by: Very large companies or government
@@ -189,7 +201,7 @@ These classes help decide:
     Not used for normal internet
     Think: E = Experiment
 
-  ###  Full Table to Remember Easily:
+  #  **_Full Table to Remember Easily:_**
 
   | Class | Range (First Number) | No. of Devices | Used By               | Example IP  |
   | ----- | -------------------- | -------------- | --------------------- | ----------- |
@@ -199,7 +211,7 @@ These classes help decide:
   | D     | 224 – 239            | Multicast only | Streaming, messages   | 224.0.0.5   |
   | E     | 240 – 255            | Not used       | Research only         | 250.1.1.1   |
 
-  ### Simple Analogy:
+  # **_Simple Analogy:_**
 
   | Type of House  | IP Class | Size of Network           |
   | -------------- | -------- | ------------------------- |
@@ -209,7 +221,7 @@ These classes help decide:
   | Cinema theatre | Class D  | One sends to many viewers |
   | Lab/test house | Class E  | Reserved for research     |
 
-### What is IPv4 and IPv6?
+# What is IPv4 and IPv6?
 They are two versions of the Internet Protocol – rules that give every device a unique IP address to identify it on the network.
 
 | Name     | Stands for                  |
@@ -239,7 +251,7 @@ They are two versions of the Internet Protocol – rules that give every device 
   | 📅 **Introduced**         | 1981                          | 1998                                      |
   | 🧠 **Human-readable?**    | Easy                          | Harder (long address)                     |
 
-### Notation
+# Notation
 Notation means how numbers are written in different number systems.
 
   ### **_1. Decimal Notation (What humans use)_**
