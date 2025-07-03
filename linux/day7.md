@@ -70,6 +70,8 @@ A protocol is like a set of rules that computers follow to communicate with each
 An IP address (Internet Protocol address) is like a home address for a device on a network or the internet.
 It helps devices find each other and communicate.
 
+![image](https://github.com/user-attachments/assets/15202932-d867-4397-93e0-d1cc38885150)
+
   ### **_Simple Example:_**
       Imagine your house has an address like:
       123 Main Street
@@ -113,15 +115,15 @@ It helps devices find each other and communicate.
   | **IPv4** | Internet Protocol version 4 | 192.168.0.1                    |
   | **IPv6** | Internet Protocol version 6 | 2001:0db8:85a3::8a2e:0370:7334 |
 
-# Network ID and Host ID
+# Network IP and Host IP
 In computer networks (especially in IP addresses), an IP address is divided into two parts:
 
-  ### **_1. Network ID_**
+  ### **_1. Network IP_**
   * It identifies the network to which a device (computer, printer, etc.) belongs.
   * All devices on the same network will have the same Network ID.
   * Example: In a company, all computers in one office floor may have the same network ID.
 
-  ### **_2. Host ID_**
+  ### **_2. Host IP_**
   * It identifies a specific device (host) within the network.
   * It must be unique for every device in that network.
   * So, two computers cannot have the same Host ID in one network.
@@ -138,6 +140,10 @@ In computer networks (especially in IP addresses), an IP address is divided into
 
 # Classful Addressing
 Classful Addressing is an old method of dividing the IPv4 address space into fixed-size blocks called classes.
+
+![image](https://github.com/user-attachments/assets/9691741f-6428-490d-975e-6e3d5bad725c)
+
+![image](https://github.com/user-attachments/assets/97215857-7be2-4465-9f17-e792b92b510c)
 
 # Classes of IP Address 
 When the internet was first created, people needed a way to give unique IP addresses to all devices, whether:
@@ -434,4 +440,47 @@ Looks like: Thin glass or plastic strands inside a protective cover — uses lig
   * More expensive but super fast
   * Fragile (glass inside)
 
+# Subnetting
+It helps you to utilize your network bandwidth(rate at which data is actually transmitted over network. It should be maximum. Units-bits per sec or bts.) more intelligently. The practice of dividing a network into two or more networks is **Subnetting**.
+
+![image](https://github.com/user-attachments/assets/35dcc036-6b87-4bfa-ae2f-e5d1fc5463b7)
+
+  ### **_Notations: CIDR vs. Decimal_**
+  Subnet masks are expressed either in CIDR notation or dotted-decimal format. CIDR notation simply appends a slash followed by the number of ones in the mask. For example, /24 equates to 255.255.255.0. Meanwhile, dotted-decimal format writes the mask as four octets separated by dots.
+  
+![image](https://github.com/user-attachments/assets/77f873c8-5c8c-41f6-88ee-738b99b5eb6f)
+
+![image](https://github.com/user-attachments/assets/a2ad4e6a-affc-46d4-b8a5-9dd1cf97a59b)
+
+# Latency
+Delay in data on passing from one point to another. It should be less (< millisecond).
+
+# Network IP
+If we divide network into five different sub-network, every sub-network will have unique network IP.
+* It represents the whole network, not a specific device.
+* It is the first address in any IP range.
+* Used by routers and computers to identify the network itself.
+
+    Example:
+    If you have a network 192.168.1.0/24
+    The Network IP is: 192.168.1.0
+    (It means: "This is the 192.168.1.x network")
+
+# Broadcast IP
+The last IP address of your subnet  range.
+* It is used to send data to all devices in the network.
+* It is the last IP address in the range.
+* When a message is sent to the broadcast IP, all devices on the network receive it.
+
+    Example:
+    For the network 192.168.1.0/24
+    The Broadcast IP is: 192.168.1.255
+    
+    So, if a device sends data to 192.168.1.255, all devices from 192.168.1.1 to 192.168.1.254 will receive it.
+
+# Subnet mask
+A subnet mask is like a divider that splits an IP address into:
+* Network part (which network it belongs to)
+* Host part (which device in that network)
+It helps computers know: “Are you in my network or are you in another network?”
 
