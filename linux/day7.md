@@ -116,7 +116,7 @@ It helps devices find each other and communicate.
 # Network ID and Host ID
 In computer networks (especially in IP addresses), an IP address is divided into two parts:
 
-  ### **_ 1. Network ID_**
+  ### **_1. Network ID_**
   * It identifies the network to which a device (computer, printer, etc.) belongs.
   * All devices on the same network will have the same Network ID.
   * Example: In a company, all computers in one office floor may have the same network ID.
@@ -223,7 +223,7 @@ Suffix: 0.0.1
       Not used for normal internet
       Think: E = Experiment
 
-  #  **_Full Table to Remember Easily:_**
+  ###  **_Full Table to Remember Easily:_**
 
   | Class | Range (First Number) | No. of Devices | Used By               | Example IP  |
   | ----- | -------------------- | -------------- | --------------------- | ----------- |
@@ -233,7 +233,7 @@ Suffix: 0.0.1
   | D     | 224 – 239            | Multicast only | Streaming, messages   | 224.0.0.5   |
   | E     | 240 – 255            | Not used       | Research only         | 250.1.1.1   |
 
-  # **_Simple Analogy:_**
+  ### **_Simple Analogy:_**
 
   | Type of House  | IP Class | Size of Network           |
   | -------------- | -------- | ------------------------- |
@@ -300,3 +300,138 @@ Notation means how numbers are written in different number systems.
 A MAC address (Media Access Control address) is a unique ID given to every device's network card(hardware part in your computer, laptop, phone, or any device that allows it to connect to a network like the internet or LAN (Local Area Network)
 
 (It helps devices identify each other on a local network (like your home Wi-Fi).
+
+#  Domain Name Server (DNS)
+* A Domain Name Server (DNS) is like the phonebook of the internet.
+* It helps your computer find the real address (IP) of a website you want to visit.
+
+  ### **_Why do we need DNS?_**
+      www.google.com
+
+      But computers don’t understand names — they understand **IP addresses**, like:
+      ``142.250.195.78``
+      
+      So, DNS helps to:
+      🔄 **Translate** `www.google.com` → `142.250.195.78`
+      
+      ---
+      
+      ### 📞 Simple Analogy:
+      
+      You know your friend’s name is **Amandeep**,  
+      But your phone needs their **phone number** to call.
+      
+      So, you check your phonebook:
+      - Name: Amandeep  
+      - Number: 9876543210  
+      
+      ✅ That’s what DNS does — it looks up the **IP address** for a **website name**.
+      
+      ---
+      
+      ### 🔄 Step-by-Step: How DNS Works
+      
+      1. 🧑 You type: `www.youtube.com` in your browser  
+      2. 🌐 Your computer asks the DNS: "What is the IP of youtube.com?"  
+      3. 🧠 DNS replies: "It is `142.250.195.78`"  
+      4. 🚀 Your browser goes to that IP and opens the website!
+      
+      ---
+      
+      ### 🧠 Without DNS:
+      You would have to **remember numbers** like `142.250.195.78` instead of easy names like `youtube.com`.
+      
+      ---
+      
+      ### 📌 Key Terms:
+      
+      | Term        | Meaning |
+      |-------------|---------|
+      | **DNS**     | Domain Name Server — translates website names to IP addresses |
+      | **IP Address** | A number that identifies each device or website on the internet |
+      | **Domain Name** | The name you type (like google.com) |
+      
+      ---
+      
+      Let me know if you want to see how to **check DNS settings** or how DNS errors are fixed!
+
+# Default Gateway
+A default gateway is the device (usually a router) that your computer uses to connect to other networks, like the internet.
+* Think of it as the "exit door" from your local network to the outside world.
+
+  ### **_Simple Analogy:_**
+  * Imagine your house (home network) and a main gate (default gateway).
+  * Inside the house, all rooms can talk to each other (your devices: phone, laptop, TV).
+  * But to go outside (like to a shop or school = internet), you must use the main gate.
+  * That main gate is the default gateway.
+
+  ### **_Example:_**
+  * Your laptop’s IP address = 192.168.1.5
+  * Your router’s IP address = 192.168.1.1
+  * Here, 192.168.1.1 is the default gateway.
+  So when your laptop wants to open **www.google.com**, it sends the request to 192.168.1.1 (router) — the default gateway — which then connects to the internet and brings back the website.
+
+# Difference Between Unicast, Broadcast, and Multicast
+
+| Feature    | **Unicast**           | **Broadcast**           | **Multicast**                    |
+| ---------- | --------------------- | ----------------------- | -------------------------------- |
+| Sends to   | One device            | All devices on network  | Selected group of devices        |
+| IP Example | `192.168.1.10`        | `255.255.255.255`       | `224.0.0.1` (etc.)               |
+| Used for   | Private communication | Network discovery, DHCP | Streaming, IPTV, conferencing    |
+| Efficient? | ✅ (for one)           | ❌ (wastes bandwidth)    | ✅ (saves bandwidth vs broadcast) |
+
+# Types of Cables
+
+### **_1. Twisted Pair Cable_**
+Looks like: Two or more wires twisted together
+
+  ### **_Types:_**
+  * UTP (Unshielded Twisted Pair) – used in LAN
+  * STP (Shielded Twisted Pair) – used where protection from noise is needed
+
+  ### **_Common Use:_**
+  Ethernet cables (like Cat5e, Cat6 used in offices, homes)
+
+  ### **_Speed & Distance:_**
+  * Up to 1 Gbps or more
+  * Around 100 meters (for good quality)
+
+  ### **_Features:_**
+  * Cheap and flexible
+  * Easy to install
+  * Affected by electrical noise (less protected)
+
+### **_2. Coaxial Cable_**
+Looks like: A single copper wire in the center, surrounded by insulation, metal shield, and outer cover (like a TV cable)
+
+  ### **_Common Use:_**
+  * Cable TV
+  * Internet through cable modems
+  * CCTV cameras
+
+  ### **_Speed & Distance:_**
+  * Up to 10 Mbps to 1 Gbps
+  * More distance than twisted pair
+
+  ### **_Features:_**
+  * Better protection from interference
+  * Thicker and harder to bend than twisted pair
+
+### **_3. Fiber Optic Cable_**
+Looks like: Thin glass or plastic strands inside a protective cover — uses light, not electricity
+
+  ### **_Common Use:_**
+  * High-speed internet (FTTH - Fiber To The Home)
+  * Long-distance communication
+  * ISPs, backbone of internet
+
+  ### **_Speed & Distance:_**
+  * Very high speed (up to Tbps)
+  * Can go kilometers without signal loss
+
+  ### **_Features:_**
+  * No electrical interference
+  * More expensive but super fast
+  * Fragile (glass inside)
+
+
