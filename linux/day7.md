@@ -113,6 +113,29 @@ It helps devices find each other and communicate.
   | **IPv4** | Internet Protocol version 4 | 192.168.0.1                    |
   | **IPv6** | Internet Protocol version 6 | 2001:0db8:85a3::8a2e:0370:7334 |
 
+# Network ID and Host ID
+In computer networks (especially in IP addresses), an IP address is divided into two parts:
+
+  ### **_ 1. Network ID_**
+  * It identifies the network to which a device (computer, printer, etc.) belongs.
+  * All devices on the same network will have the same Network ID.
+  * Example: In a company, all computers in one office floor may have the same network ID.
+
+  ### **_2. Host ID_**
+  * It identifies a specific device (host) within the network.
+  * It must be unique for every device in that network.
+  * So, two computers cannot have the same Host ID in one network.
+
+  ### **_ Example (IPv4):_**
+      Let’s say the IP address is:
+      192.168.1.10
+      And the subnet mask is:
+      255.255.255.0
+      
+      Network ID = 192.168.1.0
+      Host ID = 0.0.0.10
+      This means the device is number 10 in the 192.168.1.0 network.
+
 # Classful Addressing
 Classful Addressing is an old method of dividing the IPv4 address space into fixed-size blocks called classes.
 
@@ -273,3 +296,7 @@ Notation means how numbers are written in different number systems.
     = (1 × 8) + (0 × 4) + (1 × 2) + (0 × 1)
     = (1 × 2³) + (0 × 2²) + (1 × 2¹) + (0 × 2⁰)
 
+#  MAC Address
+A MAC address (Media Access Control address) is a unique ID given to every device's network card(hardware part in your computer, laptop, phone, or any device that allows it to connect to a network like the internet or LAN (Local Area Network)
+
+(It helps devices identify each other on a local network (like your home Wi-Fi).
