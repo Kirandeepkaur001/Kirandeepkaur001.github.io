@@ -191,12 +191,45 @@
 
   ![image](https://github.com/user-attachments/assets/d55b492c-eece-43fd-a27b-478701451766)
 
+* # File System Software
+  It’s how your computer organizes and keeps track of files. When you save a file, your computer needs to know:
+  * Where it’s stored
+  * What it’s called
+  * What kind of file it is
+  * Who owns it
+  * How big it is
+  This job is done by the File System — a type of software built into the operating system.
 
-  
+* #  File Structure in Operating Systems (Linux/Windows)
+A file structure refers to how files and directories (folders) are organized in a system. It’s like a tree where folders (called directories) can contain files or other folders.
 
+  **_Basic Concepts_**
   
+  **_Files_** : A file is a container that holds data, such as text, images, videos, code, etc. Example: notes.txt, report.pdf, photo.jpg
 
-  
+  **_Directories (Folders)_** : A directory is a special type of file that contains other files or directories. Example: Documents, Downloads, Music
+
+  ### **_Tree-Like Structure (Hierarchical)_**
+
+      /
+      ├── home/
+      │   └── amandeep/
+      │       ├── Documents/
+      │       │   └── resume.pdf
+      │       ├── Music/
+      │       └── Pictures/
+      │           └── photo.jpg
+      ├── bin/
+      ├── etc/
+      └── var/
+
+  **_Explanation:_**
+  * / → Root directory (the top of the structure)
+  * home/ → A folder inside root
+  * amandeep/ → Your personal user directory
+  * Documents/, Music/, Pictures/ → Subdirectories under your user
+  * Files like resume.pdf and photo.jpg are stored inside directories
+
 
  
     
