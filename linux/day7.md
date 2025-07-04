@@ -118,12 +118,12 @@ It helps devices find each other and communicate.
 # Network IP and Host IP
 In computer networks (especially in IP addresses), an IP address is divided into two parts:
 
-  ### **_1. Network IP_**
+  ### **_1. Network ID_**
   * It identifies the network to which a device (computer, printer, etc.) belongs.
   * All devices on the same network will have the same Network ID.
   * Example: In a company, all computers in one office floor may have the same network ID.
 
-  ### **_2. Host IP_**
+  ### **_2. Host ID_**
   * It identifies a specific device (host) within the network.
   * It must be unique for every device in that network.
   * So, two computers cannot have the same Host ID in one network.
@@ -463,7 +463,7 @@ It helps you to utilize your network bandwidth(rate at which data is actually tr
 # Latency
 Delay in data on passing from one point to another. It should be less (< millisecond).
 
-# Network IP
+# Network ID
 If we divide network into five different sub-network, every sub-network will have unique network IP.
 * It represents the whole network, not a specific device.
 * It is the first address in any IP range.
@@ -474,7 +474,7 @@ If we divide network into five different sub-network, every sub-network will hav
     The Network IP is: 192.168.1.0
     (It means: "This is the 192.168.1.x network")
 
-# Broadcast IP
+# Broadcast ID
 The last IP address of your subnet  range.
 * It is used to send data to all devices in the network.
 * It is the last IP address in the range.
