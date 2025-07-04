@@ -113,7 +113,41 @@
     Creates an empty file. No content is written.
       
     ![image](https://github.com/user-attachments/assets/20c932de-dd43-4179-81c4-0e63ae2e3e52)
+
+    ### **_man_** :
+    man stands for manual — it shows the official manual for most Linux commands. It's like a help book 📘 built into Linux that explains how a command works.
+
+        Syntax:
+        man command_name
+        man ls
+
+        Shows detailed documentation for the ls command:
+        * Options (like -l, -a)
+        * Usage examples
+        * Author info
   
+        Press:
+        Arrow keys to scroll
+        q to quit and go back to terminal
+
+    ### **_help_** :
+    help shows quick instructions for shell built-in commands (like cd, echo, if, for).
+
+        Syntax:
+        help command_name
+        help cd
+        Shows how cd works (used to change directory)
+
+  ### Difference Between man and help :
+  
+  | Feature               | `man`                                  | `help`                             |
+  | --------------------- | -------------------------------------- | ---------------------------------- |
+  | Works for             | Most Linux commands (e.g., `ls`, `cp`) | Shell built-ins (e.g., `cd`, `if`) |
+  | Gives detailed info   | ✅ Yes                                  | ❌ Short & basic                 |
+  | Used like             | `man ls`                               | `help cd`                          |
+  | Need to quit with `q` | ✅ Yes                                  | ❌ No                            |
+
+
     ### **_nano_** :
     * A text editor in linux
     * Beginner-friendly
