@@ -115,7 +115,7 @@ It helps devices find each other and communicate.
   | **IPv4** | Internet Protocol version 4 | 192.168.0.1                    |
   | **IPv6** | Internet Protocol version 6 | 2001:0db8:85a3::8a2e:0370:7334 |
 
-# Network IP and Host IP
+# Network ID and Host ID
 In computer networks (especially in IP addresses), an IP address is divided into two parts:
 
   ### **_1. Network ID_**
