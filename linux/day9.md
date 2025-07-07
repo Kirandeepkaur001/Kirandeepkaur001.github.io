@@ -58,4 +58,5 @@ Rendering means how the browser reads HTML and displays it as a web page on your
 ### **_6. Shows the Page_**
 * After reading and processing everything, the browser draws the final web page on your screen.
 
+![image](https://github.com/user-attachments/assets/2d5fb641-69fa-47d8-bc41-060b3244854e)
 
