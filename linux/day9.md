@@ -43,7 +43,7 @@ Rendering means how the browser reads HTML and displays it as a web page on your
 
 ### **_2. Browser Reads HTML Line by Line_**
 * The browser reads the HTML code from top to bottom.
-* It sees tags like <html>, <head>, <body>, <h1>, <p>, etc.
+* It sees tags like `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, etc.
 
 ### **_3. Builds the Structure (DOM Tree)_**
 * The browser makes a structure of the page in its memory called the DOM (Document Object Model).
