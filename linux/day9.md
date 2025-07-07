@@ -4,8 +4,6 @@
 HTML stands for HyperText Markup Language.
 It is the basic building block of all websites. You use HTML to tell a web browser what to show on a web page.
 
-![image](https://github.com/user-attachments/assets/0033f201-e3b5-435e-99c8-e6a1ad4c7b6d)
-
 ### What Does HTML Do?
 HTML is used to:
 * Show text, images, videos, links, and buttons on a web page.
@@ -23,6 +21,8 @@ HTML is used to:
           <p>This is my first webpage using HTML.</p>
         </body>
       </html>
+
+![image](https://github.com/user-attachments/assets/c21d2bf1-d125-4af3-80eb-6e027dfc40c4)
 
 ### Explanation:
 
@@ -58,5 +58,4 @@ Rendering means how the browser reads HTML and displays it as a web page on your
 ### **_6. Shows the Page_**
 * After reading and processing everything, the browser draws the final web page on your screen.
 
-![image](https://github.com/user-attachments/assets/2d5fb641-69fa-47d8-bc41-060b3244854e)
 
