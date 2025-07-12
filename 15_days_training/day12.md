@@ -54,3 +54,5 @@ CSS is written in a separate .css file, and linked using <link> tag.
       color: green;
       text-align: center;
     }
+
+![Uploading image.png…]()
