@@ -55,4 +55,5 @@ CSS is written in a separate .css file, and linked using <link> tag.
       text-align: center;
     }
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a66dcb5d-0cda-4132-899e-faca618cb3ed" />
+
