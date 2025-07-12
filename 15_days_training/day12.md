@@ -13,6 +13,8 @@ CSS is written inside the HTML element using the style attribute.
 ## **_Example_**
     <p style="color: red; font-size: 20px;">This is a red paragraph.</p>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58091850-6a30-409b-af3e-8192399c3c0b" />
+
 ## **_2. Internal CSS:_**
 CSS is written inside the <style> tag in the HTML document (usually inside the <head>).
 ## **_Example_**
