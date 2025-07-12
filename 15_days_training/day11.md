@@ -22,3 +22,5 @@ Semantic tags are HTML tags that clearly describe the meaning of the content ins
 * Helps search engines understand your page
 * Improves accessibility for screen readers
 * Replaces messy <div> structures with meaningful tags
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f99c5dd-1805-4fa1-86f1-8fde2cae4503" />
