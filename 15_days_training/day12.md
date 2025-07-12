@@ -33,6 +33,8 @@ CSS is written inside the <style> tag in the HTML document (usually inside the <
     </body>
     </html>
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa7f377b-2064-4704-a691-7e2418fe4411" />
+
 ## **_3. External CSS_**
 CSS is written in a separate .css file, and linked using <link> tag.
 
