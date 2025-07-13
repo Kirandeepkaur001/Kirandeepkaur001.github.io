@@ -42,7 +42,7 @@
 
 1. Create a repository<br>
 
-2. Copy the HTML line of the repo<br>
+2. Copy the HTML link of the repo<br>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5133083c-e188-4b31-8ac8-c4bade342310" />
 
@@ -97,4 +97,4 @@
 
 
 
-17. Now you can see the file in your repo:
+16. Now you can see the file in your repo:
