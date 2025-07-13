@@ -58,14 +58,14 @@
 
 8. Check status of the repo by `git status`
    * If the response id 'Up to date', you are good to move forward
-     
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9744e69e-db35-4868-94c9-fc2aba3c04fc" />
 
 9. Create a new file by `touch file_name.html`
 
 10. Open the file by `nano file_name.html`, write your code and save it.<br>
 
 11. Add by: `git add file_name.html`<br>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80cf8444-f124-47d5-8301-adce4940ea7a" />
 
 ### Warning Explained:
 
