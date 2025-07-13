@@ -76,12 +76,11 @@
 12. `git push origin main`:
     - It directs and you get asked to authorize Git Credential Manager, which securely saves GitHub login credentials for pushing/pulling code. <br>
    
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cbdf6c0-8b36-42b7-ad05-5793def7dd2f" />
 
     - Click on 'Authorize git-ecosystem'
       
-    
-    - Enter your password
-      
+    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5662293b-d844-4350-a0ed-728625c97ad5" />
 
  14. To commit: `git commit -m "message"`
      - I haven’t set a Git identity yet, so git commit cannot proceed.
@@ -89,8 +88,13 @@
      - git config --global user.name "name"
      - git config --global user.email "your-email@example.com"<br>
        > **email should match your Github email, but its not necessary for `name`**<br>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce2fca10-9ad4-4def-8218-2315a132aa47" />
+
  15. Try `git commit -m "message"` again, and push this by command: `git push origin main`:
-           
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ff87571-1026-4dd9-a413-554bfa460fb0" />
+
 
 
 17. Now you can see the file in your repo:
