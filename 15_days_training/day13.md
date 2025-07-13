@@ -58,6 +58,8 @@
 
 8. Check status of the repo by `git status`
    * If the response id 'Up to date', you are good to move forward
+     
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9744e69e-db35-4868-94c9-fc2aba3c04fc" />
 
 9. Create a new file by `touch file_name.html`
 
