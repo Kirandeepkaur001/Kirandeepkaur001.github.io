@@ -77,3 +77,21 @@ Now you want to combine your friend's work into the main story. That’s called 
         git pull origin branch-name
 * “Download updates from the cloud.”
 
+## What is Rebase? (A cleaner alternative to merge)
+Instead of "combining" branches like merging, rebase moves your branch on top of another branch as if your work happened after it.mThink of it like:
+* Telling Git: “Pretend I started my work from the latest version of main.”
+
+## **_Why use rebase?_**
+* Keeps history clean and linear
+* No messy merge commits
+* Looks like all work happened one after another
+
+## **_Rebase Commands:_**
+    git checkout feature-branch
+    git rebase main
+    
+    Then:
+
+    git checkout main
+    git merge feature-branch   # Fast-forward, clean merge
+
