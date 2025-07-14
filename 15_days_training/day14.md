@@ -78,7 +78,7 @@ Now you want to combine your friend's work into the main story. That’s called 
 * “Download updates from the cloud.”
 
 ## What is Rebase? (A cleaner alternative to merge)
-Instead of "combining" branches like merging, rebase moves your branch on top of another branch as if your work happened after it.mThink of it like:
+Instead of "combining" branches like merging, rebase moves your branch on top of another branch as if your work happened after it. Think of it like:
 * Telling Git: “Pretend I started my work from the latest version of main.”
 
 ## **_Why use rebase?_**
