@@ -50,3 +50,30 @@ You start with the main branch (usually called main or master). Then you create 
             |
             |---------> bug-fix
 Each line is a branch. You can work on them independently, then merge when you're ready.
+
+##  What is Merging in Git?
+Merging means taking changes from one branch and combining them into another branch.
+
+## **_Imagine This:_**
+You and your friend are writing two parts of a story.
+* You're working on main
+* Your friend is working on feature-chapter2
+Now you want to combine your friend's work into the main story. That’s called merging.
+
+## **_Merge Commands:_**
+    git checkout main        # Move to the branch you want to merge into
+    git merge feature-branch # Merge the other branch into this one
+
+## **_What happens:_**
+* Git will try to automatically combine the changes.
+* If two branches changed the same line = merge conflict (you fix it manually).
+
+## What is Push and Pull?
+### **_git push = Send changes from your computer → GitHub_**
+        git push origin branch-name
+* “Upload my work to the cloud.”
+
+### **_git pull = Get latest changes from GitHub → your computer_**
+        git pull origin branch-name
+* “Download updates from the cloud.”
+
